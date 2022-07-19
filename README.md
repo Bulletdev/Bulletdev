@@ -1,4 +1,4 @@
-## Oi oi, sou o Michael, mas pode me chamar de Bullet! 🏳️‍
+## Oi oi, sou o Michael, mas pode me chamar de Bullet! 
 Seja muito bem vinda(o) ao meu Perfil! ✨
 
 <div>
