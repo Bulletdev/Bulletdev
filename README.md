@@ -5,21 +5,21 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
   <img align="right" alt="Git-Computador" width="150px" height="150px" src="./assets/Myself.gif"/>
 </div>
 
-- Pronomes: ela/dela
-- Sou Desenvolvedora Web Full-Stack apaixonada por Tecnologia, faço parte da T4 da Driven Education.
+- Pronomes: ele/Dele
+- Sou Desenvolvedor Web Full-Stack apaixonado por Tecnologia.
 - No momento, estou me aperfeiçoando no mundo front-end, explorando o universo do back-end.
 - Tenho habilidades com HTML, CSS, JavaScript, React, TypeScript, NodeJS, Express, MongoDb, Postgres, Jest, Cypress, AWS, Docker, CI/CD.
-- Uma curiosidade sobre mim: Sou formada em psicologia. 📚
+- Uma curiosidade sobre mim: Sou formada em Engenharia Civil.
 
 
 #### Hi hi, I'm Michael, but could u call me as Bullet! 🏳️‍
 Welcome to my profile! ✨
 
 - Pronouns: He/Him
-- I'm a Full-Stack Web Developer passionate about Technology, I'm part of T4 at Driven Education.
+- I'm a Full-Stack Web Developer passionate about Technology.
 - At the moment, I'm perfecting in the front-end world and exploring the back-end universe.
 - I have skills with HTML, CSS, JavaScript, React, TypeScript, NodeJS, Express, MongoDb, Postgres, Jest, Cypress, AWS, Docker, CI/CD.
-- A curiosity about me: I have a degree in psychology.📚
+- A curiosity about me: I have a degree in Civil Enginering.
 
 
 
