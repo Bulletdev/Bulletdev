@@ -2,7 +2,7 @@
 Seja muito bem vinda(o) ao meu Perfil! ✨
 
 <div>
-  <img align="right" alt="Git-Computador" width="150px" height="150px" src="./assets/Myself.gif"/>
+  <img align="right" alt="Git-Computador" width="150px" height="150px" src="https://pbs.twimg.com/media/FUAvu5ZWQAAwUiC?format=png&name=small"/>
 </div>
 
 - Pronomes: ele/Dele
