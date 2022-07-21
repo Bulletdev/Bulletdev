@@ -61,3 +61,4 @@ Welcome to my profile! ✨
  <div>
   <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/LuSntgo/LuSntgo/blob/main/kikachan87.gif"/>
 </div>
+
