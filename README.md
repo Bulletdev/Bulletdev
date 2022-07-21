@@ -30,18 +30,15 @@ Welcome to my profile! ✨
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bulletdev&layout=compact&langs_count=16&theme=jolly"/> <br>
 </div>
 <div align="center">
-<img alt="html" title="#html" width="60px" src="./assets/html.svg" />
-<img alt="css" title="#css" width="60px" src="./assets/css.svg" />
-<img alt="javascript" title="#javascript" width="60px" src="./assets/js.svg" />
-<img alt="react" title="#react" width="60px" src="./assets/react.svg" />
-<img alt="express" title="#express" width="60px" src="./assets/express.svg" />
-<img alt="npm" title="#npm" width="60px" src="./assets/npm.svg" />
-<img alt="nodejs" title="#nodejs" width="60px" src="./assets/nodejs.svg" />
-<img alt="mongodb" title="#mongodb" width="60px" src="./assets/mongodb.svg" />
-<img alt="postgres" title="#postgres" width="60px" src="./assets/postgres.svg" />
-<img alt="prisma" title="#prisma" width="60px" src="./assets/prisma.svg" />
-<img alt="typescript" title="#typescript" width="60px" src="./assets/typescript.svg" />
-
+  <img align="center" alt="Devroot-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Devroot-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Devroot-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Devroot-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Devroot-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Devroot-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Devroot-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
+  <img align="center" alt="Devroot-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  
 </div>
 
 
