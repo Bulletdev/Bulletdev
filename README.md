@@ -19,7 +19,7 @@ Welcome to my profile! ✨
 - I'm a Full-Stack Web Developer passionate about Technology.
 - At the moment, I'm perfecting in the front-end world and exploring the back-end universe.
 - I have skills with HTML, CSS, JavaScript, React, TypeScript, NodeJS, Express, MongoDb, Postgres, Jest, Cypress, AWS, Docker, CI/CD.
-- A curiosity about me: I have a degree in Civil Enginering and luv play Chess.
+- A curiosity about me: I have a degree in Civil Enginering and luv 2 play Chess.
 
 
 
@@ -64,6 +64,7 @@ Welcome to my profile! ✨
              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
              ⠀⠀⠀⣿⣙⡆⠀⠀⡇⠀⢸⠀⠀⢸⠀⠀⠀⢸⡇⠀⠀⢸⣏⡉⠀⠈⠙⡏⠁⠀ 
              ⠀⠀⠀⣿⣉⡷⠀⠀⢧⣀⣼⠀⠀⢸⣀⡀ ⢸⣇⡀⠀⢸⣏⣁⠀⠀⠀⡇⠀ 
+
              
   </div>
 <div align="center"> 
