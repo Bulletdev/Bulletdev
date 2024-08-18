@@ -9,7 +9,7 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 - Sou Desenvolvedor Web Full-Stack apaixonado por Tecnologia.
 - No momento, estou me aperfeiçoando no mundo front-end, explorando o universo do back-end.
 - Tenho habilidades com Java, Python, C#, HTML, CSS, JavaScript, React, TypeScript, NodeJS, Express, MongoDb, Postgres, Jest, Cypress, AWS, Docker, CI/CD.
-- Uma curiosidade sobre mim: Sou graduado em Engenharia Civil, e amo jogar Xadrez.
+- Uma curiosidade sobre mim:  amo jogar Xadrez.
 
 
 #### Hi hi, I'm Michael, but could u call me as Bullet! 🏌️‍♂️
@@ -19,7 +19,7 @@ Welcome to my profile! ✨
 - I'm a Full-Stack Web Developer passionate about Technology.
 - At the moment, I'm perfecting in the front-end world and exploring the back-end universe.
 - I have skills with HTML, CSS, JavaScript, React, TypeScript, NodeJS, Express, MongoDb, Postgres, Jest, Cypress, AWS, Docker, CI/CD.
-- A curiosity about me: I have a degree in Civil Enginering and luv 2 play Chess.
+- A curiosity about me:  luv 2 play Chess.
 
 
 
