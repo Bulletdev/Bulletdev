@@ -8,7 +8,7 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 - Pronomes: ele/Dele
 - Sou Desenvolvedor Web Full-Stack apaixonado por Tecnologia.
 - No momento, estou me aperfeiçoando no mundo front-end, explorando o universo do back-end.
-- Tenho habilidades com HTML, CSS, JavaScript, React, TypeScript, NodeJS, Express, MongoDb, Postgres, Jest, Cypress, AWS, Docker, CI/CD.
+- Tenho habilidades com Java, Python, C#, HTML, CSS, JavaScript, React, TypeScript, NodeJS, Express, MongoDb, Postgres, Jest, Cypress, AWS, Docker, CI/CD.
 - Uma curiosidade sobre mim: Sou graduado em Engenharia Civil, e amo jogar Xadrez.
 
 
