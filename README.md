@@ -43,7 +43,7 @@ Welcome to my profile! ✨
 
 
 
-![Snake animation]([https://github.com/gaearon/gaearon/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg))
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 </div>
 
   ## 📫 Contatos
