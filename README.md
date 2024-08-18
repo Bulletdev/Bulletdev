@@ -43,7 +43,7 @@ Welcome to my profile! ✨
 
 
 
-![Snake animation](https://github.com/LuSntgo/LuSntgo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/IDouble/IDouble/blob/output/github-contribution-grid-snake.svg)
 </div>
 
   ## 📫 Contatos
