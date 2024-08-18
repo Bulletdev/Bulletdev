@@ -30,7 +30,7 @@ Welcome to my profile! ✨
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bulletdev&layout=compact&langs_count=16&theme=jolly"/> <br>
 </div>
 <div align="center">
-  <img align="center" alt="Devroot-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Devroot-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Devroot-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Devroot-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Devroot-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
