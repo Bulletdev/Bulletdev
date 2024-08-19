@@ -18,7 +18,7 @@ Welcome to my profile! ✨
 - Pronouns: He/Him
 - I'm a Full-Stack Web Developer passionate about Technology.
 - At the moment, I'm perfecting in the front-end world and exploring the back-end universe.
-- I have skills with HTML, CSS, JavaScript, React, TypeScript, NodeJS, Express, MongoDb, Postgres, Jest, Cypress, AWS, Docker, CI/CD.
+- I have skills with JAVA, PYTHON, C#,  React, TypeScript, NodeJS, Express, MongoDb, Postgres, Jest, Cypress, AWS, Docker, CI/CD.
 - A curiosity about me:  luv 2 play Chess.
 
 
