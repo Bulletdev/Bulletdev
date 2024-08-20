@@ -70,6 +70,6 @@ Welcome to my profile! ✨
 </div>
 <br><br>
  <div>
-  <img align="center" alt="Pixel-Art" width="1000px" src="https://cdn.discordapp.com/attachments/900517215198150687/1002206564276523120/1111stream_offf.png"/>
+  <img align="center" alt="Pixel-Art" width="1000px" src="https://i.ibb.co/SRyDpt5/logo-bullet-png.png"/>
 </div>
 
