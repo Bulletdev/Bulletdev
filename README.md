@@ -5,7 +5,6 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
   <img align="right" alt="Git-Computador" width="150px" height="150px" src="https://pbs.twimg.com/media/FUAvu5ZWQAAwUiC?format=png&name=small"/>
 </div>
 
-- Pronomes: ele/Dele
 - Sou Desenvolvedor java e python
 - Uma curiosidade sobre mim:  amo jogar Xadrez.
 
@@ -13,7 +12,6 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 #### Hi hi, I'm Michael, but could u call me as Bullet! 🏌️‍♂️
 Welcome to my profile! ✨
 
-- Pronouns: He/Him
 - I'm a Full-Stack Web Developer, mainly java & python
 - A curiosity about me:  luv 2 play Chess.
 
