@@ -6,9 +6,7 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 </div>
 
 - Pronomes: ele/Dele
-- Sou Desenvolvedor Web Full-Stack apaixonado por Tecnologia.
-- No momento, estou me aperfeiçoando no mundo front-end, explorando o universo do back-end.
-- Tenho habilidades com Java, Python, C#, HTML, CSS, JavaScript, React, TypeScript, NodeJS, Express, MongoDb, Postgres, Jest, Cypress, AWS, Docker, CI/CD.
+- Sou Desenvolvedor java e python
 - Uma curiosidade sobre mim:  amo jogar Xadrez.
 
 
@@ -16,9 +14,7 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 Welcome to my profile! ✨
 
 - Pronouns: He/Him
-- I'm a Full-Stack Web Developer passionate about Technology.
-- At the moment, I'm perfecting in the front-end world and exploring the back-end universe.
-- I have skills with JAVA, PYTHON, C#,  React, TypeScript, NodeJS, Express, MongoDb, Postgres, Jest, Cypress, AWS, Docker, CI/CD.
+- I'm a Full-Stack Web Developer, mainly java & python
 - A curiosity about me:  luv 2 play Chess.
 
 
