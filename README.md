@@ -9,7 +9,7 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 - Uma curiosidade sobre mim:  amo jogar Xadrez.
 
 
-#### Hi hi, I'm Michael, but could u call me as Bullet! 🏌️‍♂️
+#### Hi hi, I'm Michael, but could u call me as Bullet! 🏌️‍♂️ 🇺🇸
 Welcome to my profile! ✨
 
 - I'm a Full-Stack Web Developer, mainly java & python
