@@ -12,7 +12,7 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 #### Hi hi, I'm Michael, but could u call me as Bullet! 🏌️‍♂️ 🇺🇸
 Welcome to my profile! ✨
 
-- I'm a Full-Stack Web Developer, mainly java & python
+- I'm a Web Developer, mainly java & python
 - A curiosity about me:  luv 2 play Chess.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-douglas-302720201/)
