@@ -20,7 +20,7 @@ Welcome to my profile! ✨
 
 ## 📊 Estatísticas
 <div align="center">
-  <a href="https://ayo.so/bullett"></a>
+  <a href="https://ayo.so/bullet"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bulletdev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bulletdev&layout=compact&langs_count=16&theme=jolly"/> <br>
 </div>
@@ -65,11 +65,7 @@ Welcome to my profile! ✨
 <br><br>
  <div align="center">
   <img align="center" alt="Pixel-Art" width="333px" src="https://i.ibb.co/SRyDpt5/logo-bullet-png.png"/>
-   </div>
-   <div align="center">
-Signature
-     <div>
-<div align="center">
+
   <img alt="Pixel-Art" width="333px" src="https://i.ibb.co/d5WY4dJ/Screenshot-5-removebg-preview.png"/>
   </div>
 
