@@ -63,7 +63,7 @@ Welcome to my profile! ✨
   <a href="https://www.linkedin.com/in/michael-douglas-302720201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br><br>
- <<div align="center">>
+ <div align="center">
   <img align="center" alt="Pixel-Art" width="333px" src="https://i.ibb.co/SRyDpt5/logo-bullet-png.png"/>
    </div>
 <div align="center">
