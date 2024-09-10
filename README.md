@@ -65,6 +65,8 @@ Welcome to my profile! ✨
 <br><br>
  <div>
   <img align="center" alt="Pixel-Art" width="333px" src="https://i.ibb.co/SRyDpt5/logo-bullet-png.png"/>
-    <img align="center" alt="Pixel-Art" width="333px" src="https://i.ibb.co/d5WY4dJ/Screenshot-5-removebg-preview.png/>
+   </div>
+    <div>
+  <img align="center" alt="Pixel-Art" width="333px" src="https://i.ibb.co/d5WY4dJ/Screenshot-5-removebg-preview.png/>
 </div>
 
