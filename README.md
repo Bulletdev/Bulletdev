@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=bulletdev.bulletdev)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev.Bulletdev)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ## Oi oi, sou o Michael, mas pode me chamar de Bullet! 
@@ -20,8 +20,6 @@ Welcome to my profile! ✨
 
 - # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
 #!/usr/bin/python
