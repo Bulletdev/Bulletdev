@@ -1,5 +1,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+<code><a href="https://www.hackerrank.com/craquebullet" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
 
 ## Oi oi, sou o Michael, mas pode me chamar de Bullet! 
 Seja muito bem vinda(o) ao meu Perfil! ✨
