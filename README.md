@@ -64,7 +64,7 @@ me.say_hi()
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 </div>
 
-[Ouça "Hungria" aqui](https://bulletdev.github.io/player-hungria/)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1FOUipvbQqLhVeJlPXOFrO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 |   | A | B | C | D | E | F | G | H |
 | - | - | - | - | - | - | - | - | - |
