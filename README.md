@@ -15,7 +15,6 @@ Welcome to my profile! ✨
 - I'm a Web Developer, mainly java & python
 - A curiosity about me:  luv 2 play Chess.
 
-**Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a black (solid) piece.
 
 |   | A | B | C | D | E | F | G | H |
 | - | - | - | - | - | - | - | - | - |
