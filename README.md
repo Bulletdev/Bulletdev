@@ -1,6 +1,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 <code><a href="https://www.hackerrank.com/craquebullet" title="HackerRank Profile"><img width="22" src="https://i.ibb.co/P5W5dLW/hackerrank.png"> HackerRank</a></code>
+<code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://i.ibb.co/3NkrPz7/png-transparent-stack-overflow-stack-exchange-programmer-logo-others.png"> Stack Overflow</a></code>
 
 ## Oi oi, sou o Michael, mas pode me chamar de Bullet! 
 Seja muito bem vinda(o) ao meu Perfil! ✨
