@@ -1,3 +1,6 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=bulletdev)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 ## Oi oi, sou o Michael, mas pode me chamar de Bullet! 
 Seja muito bem vinda(o) ao meu Perfil! ✨
 
@@ -14,6 +17,31 @@ Welcome to my profile! ✨
 
 - I'm a Web Developer, mainly java & python
 - A curiosity about me:  luv 2 play Chess.
+
+- # Hello there 👋
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Michael Bullet"
+        self.role = "systems analysis and development"
+        self.language_spoken = ["pt_BR", "en_US"]
+
+    def say_hi(self):
+        print("Hey there, hope you find some of my work interesting. :) ")
+
+
+me = systems analysis and development()
+me.say_hi()
+```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-bullet/)
 
