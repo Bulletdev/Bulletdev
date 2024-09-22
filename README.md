@@ -12,14 +12,14 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 </div>
 
 - Sou Desenvolvedor java e python
-- Uma curiosidade sobre mim:  amo jogar Xadrez.
+- Uma curiosidade sobre mim:  amo jogar Xadrez e Hungria do velho testamento
 
 
 #### Hi hi, I'm Michael, but could u call me as Bullet! 🏌️‍♂️ 🇺🇸
 Welcome to my profile! ✨
 
 - I'm a Web Developer, mainly java & python
-- A fun fact about me:  luv 2 play Chess.
+- A fun fact about me:  luv 2 play Chess and hear Hungria Hip Hop
 
 - # Welcome👋
 
@@ -64,7 +64,7 @@ me.say_hi()
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 </div>
 
-
+[Ouça "Hungria" aqui](https://bulletdev.github.io/player-hungria/)
 
 |   | A | B | C | D | E | F | G | H |
 | - | - | - | - | - | - | - | - | - |
