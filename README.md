@@ -19,7 +19,7 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 Welcome to my profile! ✨
 
 - I'm a Web Developer, mainly java & python
-- A curiosity about me:  luv 2 play Chess.
+- A fun fact about me:  luv 2 play Chess.
 
 - # Welcome👋
 
