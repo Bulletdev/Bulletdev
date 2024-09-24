@@ -93,6 +93,50 @@ me.say_hi()
 </div> 
 
 
+```cpp
+#include <life.h>
+#include <opportunity.h>
+#include <hardwork.h>
+#include <perseverance.h>
+#include <learning.h>
+
+int main() {
+    bool hasVision = true;
+    bool staysPositive = true;
+    bool worksHard = true;
+    bool learnsFromFailure = true;
+    bool adaptsToChange = true;
+    bool embracesChallenges = true;
+    
+    const int patience = 100;
+    const int consistency = 100;
+
+    while(hasVision && staysPositive) {
+        if(worksHard && learnsFromFailure && adaptsToChange) {
+            Success success = hardwork::apply() + opportunity::seize();
+            perseverance::keepGoing();
+            learning::improveSkills();
+            
+            if(success.isAchieved()) {
+                std::cout << "Congratulations! Success Achieved!" << std::endl;
+                break;
+            }
+        }
+
+        // Reavaliando com consistência e paciência
+        consistency--;
+        patience--;
+        
+        if (consistency <= 0 || patience <= 0) {
+            std::cout << "Keep pushing through! Success takes time." << std::endl;
+            consistency = 100;
+            patience = 100;
+        }
+    }
+    
+    return 0;
+}
+
   ## 📫 Contatos
 
  Se precisar de ajuda ou tiver dúvidas e sugestões, entre em contato comigo 😉 
