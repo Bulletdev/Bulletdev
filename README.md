@@ -123,7 +123,6 @@ int main() {
             }
         }
 
-        // Reavaliando com consistência e paciência
         consistency--;
         patience--;
         
