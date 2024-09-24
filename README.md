@@ -92,7 +92,7 @@ me.say_hi()
 
 </div> 
 
-
+<code><a href="www.pensador.com/colecao/michaelbullet" title="Pensador"><img width="22" src="https://i.ibb.co/522Y0g3/logo.png"> Pensamentos</a></code>
 ```cpp
 #include <life.h>
 #include <opportunity.h>
