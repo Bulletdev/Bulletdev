@@ -14,14 +14,14 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
   <img align="right" alt="Git-Computador" width="150px" height="155px" src="https://pbs.twimg.com/media/FUAvu5ZWQAAwUiC?format=png&name=small"/>
 </div>
 
-- Sou Desenvolvedor java e python
+- Sou Desenvolvedor java e python, atualmente estudando Ruby/ruby on rails
 - Uma curiosidade sobre mim:  amo jogar Xadrez e Hungria do velho testamento
 
 
 #### Hi hi, I'm Michael, but could u call me as Bullet! 🏌️‍♂️ 🇺🇸
 Welcome to my profile! ✨
 
-- I'm a Web Developer, mainly java & python
+- I'm a Web Developer, mainly java & python, learning Ruby
 - A fun fact about me:  luv 2 play Chess and hear Hungria Hip Hop
 
 - # Welcome👋
