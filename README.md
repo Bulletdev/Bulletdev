@@ -26,6 +26,8 @@ Welcome to my profile! ✨
 
 - # Welcome👋
 
+<p align="center"><i>“Se existe um objeto de teu desejo, ele não é outro senão tu mesmo..”</i></p>
+<p align="center"><i>- Jacques Lacan -</i></p>
 
 ```python
 #!/usr/bin/python
@@ -46,9 +48,6 @@ class SoftwareEngineer:
 me = systems analysis and development()
 me.say_hi()
 ```
-
-<p align="center"><i>“Se existe um objeto de teu desejo, ele não é outro senão tu mesmo..”</i></p>
-<p align="center"><i>- Jacques Lacan -</i></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-bullet/)
 
