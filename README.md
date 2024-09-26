@@ -80,7 +80,8 @@ me.say_hi()
 </div>
 
 <h1>Xadrez ♟️</h1>
-<details>
+<details align="left">
+  <summary></summary> 
   
   
 <div align="center">
