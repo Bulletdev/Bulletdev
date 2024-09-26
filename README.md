@@ -26,11 +26,12 @@ Welcome to my profile! ✨
 
 - # Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-
+<a href="https://www.pensador.com/colecao/michaelbullet" title="Pensador"> <img height="21em" src="https://cdn.pensador.com/img/logo.png"></a>
 <p align="center"><i>“Se existe um objeto de teu desejo, ele não é outro senão tu mesmo..”</i></p>
 <p align="center"><i>- Jacques Lacan -</i></p>
 
 ```python
+
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -49,6 +50,7 @@ class SoftwareEngineer:
 me = systems analysis and development()
 me.say_hi()
 ```
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-bullet/)
 
@@ -77,6 +79,10 @@ me.say_hi()
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21q6zoxrzq55odgdg3r7xcesq)
 </div>
 
+<h1>Xadrez ♟️</h1>
+<details>
+  
+  
 <div align="center">
   
 |   | A | B | C | D | E | F | G | H |
@@ -92,7 +98,9 @@ me.say_hi()
 
 </div> 
 
-<a href="https://www.pensador.com/colecao/michaelbullet" title="Pensador"> <img height="21em" src="https://cdn.pensador.com/img/logo.png"></a>
+</details>
+
+
 ```cpp
 #include <life.h>
 #include <opportunity.h>
@@ -142,6 +150,15 @@ int main() {
 
  Se precisar de ajuda ou tiver dúvidas e sugestões, entre em contato comigo 😉 
  
+ <a href = "mailto:craquebullet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/michael-douglas-302720201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+ <details align="left">
+  <summary></summary> 
+ <h1>  
+ Assinaturas:
+ </h1>
+ 
  <div>
 
                    ⢀⣴⣿⣿⣿⣿⣿⣶⣶⣶⣿⣿⣶⣶⣶⣶⣶⣿⡿⣿⣾⣷⣶⣶⣾⣿⠀                                                                                                                          
@@ -161,8 +178,7 @@ int main() {
   </div>
 <div align="center"> 
 
-  <a href = "mailto:craquebullet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/michael-douglas-302720201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 </div>
 <br><br>
 
@@ -176,3 +192,7 @@ int main() {
 
 
  </pre>
+
+
+
+</details>
