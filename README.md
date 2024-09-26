@@ -24,7 +24,8 @@ Welcome to my profile! ✨
 - I'm a Web Developer, mainly java & python, learning Ruby
 - A fun fact about me:  luv 2 play Chess and hear Hungria Hip Hop
 
-- # Welcome👋
+- # Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+
 
 <p align="center"><i>“Se existe um objeto de teu desejo, ele não é outro senão tu mesmo..”</i></p>
 <p align="center"><i>- Jacques Lacan -</i></p>
