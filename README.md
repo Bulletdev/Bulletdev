@@ -11,11 +11,12 @@
 Seja muito bem vinda(o) ao meu Perfil! ✨
 
 <div>
-  <img align="right" alt="Git-Computador" width="280px" height="142px" src="https://pbs.twimg.com/media/FUAvu5ZWQAAwUiC?format=png&name=small"/>
+  <img align="right" alt="Git-Computador" width="250px" height="142px" src="https://pbs.twimg.com/media/FUAvu5ZWQAAwUiC?format=png&name=small"/>
 </div>
 
 - Desenvolvedor java e python, atualmente estudando Ruby/ruby on rails
 - Uma curiosidade sobre mim:  amo jogar Xadrez e Hungria do velho testamento
+- E meu Apelido Bullet é justamente pelo modo Bullet do Xadrez
 
 
 #### Hi there, I'm Michael, but could u call me as Bullet! 🏌️‍♂️ 🇺🇸
@@ -23,6 +24,7 @@ Welcome to my profile! ✨
 
 - I'm a Web Developer, mainly java & python, learning Ruby
 - A fun fact about me:  luv 2 play Chess and hear Hungria Hip Hop
+- My nickname is bullet bcause Chess Bullet mode ᯓᡣ𐭩
 
 - # Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
