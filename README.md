@@ -14,7 +14,7 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
   <img align="right" alt="Git-Computador" width="280px" height="142px" src="https://pbs.twimg.com/media/FUAvu5ZWQAAwUiC?format=png&name=small"/>
 </div>
 
-- Sou Desenvolvedor java e python, atualmente estudando Ruby/ruby on rails
+- Desenvolvedor java e python, atualmente estudando Ruby/ruby on rails
 - Uma curiosidade sobre mim:  amo jogar Xadrez e Hungria do velho testamento
 
 
