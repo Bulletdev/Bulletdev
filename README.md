@@ -82,7 +82,7 @@ me.say_hi()
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21q6zoxrzq55odgdg3r7xcesq)
 </div>
 
-<h1>Xadrez ♟️</h1>
+<h1>Xadrez ♟️</h1> clique para exibir
 <details align="left">
   <summary></summary> 
   
