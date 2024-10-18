@@ -64,13 +64,14 @@ me.say_hi()
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bulletdev&layout=compact&langs_count=16&theme=jolly"/> <br>
 </div>
 <div align="center">
-  <img align="center" alt="Devroot-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-   <img align="center" alt="Devroot-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Devroot-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
- <img align="center" alt="Devroot-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
-  <img align="center" alt="Devroot-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
- <img align="center" alt="Devroot-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-          
+<img align="center" alt="Devroot-Js" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+ 	 <img align="center" alt="Devroot-CSS" height="49" width="49" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  		<img align="center" alt="Devroot-React" height="41" width="41" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+				<img align="center" alt="Devroot-React" height="77" width="77" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg">  
+		<img align="center" alt="Devroot-React" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+	<img align="center" alt="Devroot-React" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
+ <img align="center" alt="Devroot-React" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+   
   
 </div> 
 
