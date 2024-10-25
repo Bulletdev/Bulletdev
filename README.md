@@ -5,7 +5,7 @@
 <code><a href="https://www.chess.com/member/craquebullet" title="Chess.com"><img width="18" src="https://i.ibb.co/M7S1LKr/phpk-XK09k.png"> Chess.com</a></code>
 <a href="https://www.twitch.tv/craquebullet">
 <img src="https://img.shields.io/twitch/status/craquebullet">
-</a>
+</a> 
 
 ## Oi oi, sou o Michael, mas pode me chamar de Bullet! 
 Seja muito bem vinda(o) ao meu Perfil! ✨
