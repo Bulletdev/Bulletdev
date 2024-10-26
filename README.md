@@ -7,29 +7,25 @@
 <img src="https://img.shields.io/twitch/status/craquebullet">
 </a> 
 
-## Oi oi, sou o Michael, mas pode me chamar de Bullet! 
-Seja muito bem vinda(o) ao meu Perfil! ✨
-
-<div>
-  <img align="right" alt="Git-Computador" width="250px" height="142px" src="https://pbs.twimg.com/media/FUAvu5ZWQAAwUiC?format=png&name=small"/>
-</div>
-
-- Desenvolvedor java e python, atualmente estudando Ruby/ruby on rails
-- Uma curiosidade sobre mim:  amo jogar Xadrez e Hungria do velho testamento
-- E meu Apelido Bullet é justamente pelo modo Bullet do Xadrez
-
-
-#### Hi there, I'm Michael, but could u call me as Bullet! 🏌️‍♂️ 🇺🇸
+## Hi there, I'm Michael, but could u call me as Bullet! 🏌️‍♂️ 🇺🇸
 Welcome to my profile! ✨
 
 - I'm a Web Developer, mainly java & python, learning Ruby
 - A fun fact about me:  luv 2 play Chess and hear Hungria Hip Hop
-- My nickname is bullet bcause Chess Bullet mode ᯓᡣ𐭩
+- My nickname is bullet bcause Chess Bullet mode, My Biggest rating is 3100 ᯓᡣ𐭩
+
+<div>
+  <img align="right" alt="Git-Computador" width="150px" height="150px" src="https://i.ibb.co/p6TGtsM/progressive-bullet-rating-3100-e266c4a9-1.png&name=small"/>
+</div>
+
+
+
 
 - # Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
+
 <a href="https://www.pensador.com/colecao/michaelbullet" title="Pensador"> <img height="21em" src="https://cdn.pensador.com/img/logo.png"></a>
-<p align="center"><i>“Se existe um objeto de teu desejo, ele não é outro senão tu mesmo..”</i></p>
+<p align="center"><i>“There is something in you I like more than yourself. Therefore I must destroy you.”</i></p>
 <p align="center"><i>- Jacques Lacan -</i></p>
 
 ```python
@@ -57,7 +53,7 @@ me.say_hi()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-bullet/)
 
 
-## 📊 Estatísticas
+## 📊 Statistics
 <div align="center">
   <a href="https://ayo.so/bullet"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bulletdev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
@@ -83,7 +79,7 @@ me.say_hi()
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21q6zoxrzq55odgdg3r7xcesq)
 </div>
 
-<h1>Xadrez ♟️</h1> clique para exibir
+<h1>Chess♟️</h1> click 2 display
 <details align="left">
   <summary></summary> 
   
@@ -151,7 +147,7 @@ int main() {
 ```
 
 
-  ## 📫 Contatos
+  ## 📫 Contact
 
  Se precisar de ajuda ou tiver dúvidas e sugestões, entre em contato comigo 😉 
  
