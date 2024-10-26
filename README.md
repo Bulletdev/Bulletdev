@@ -100,7 +100,13 @@ me.say_hi()
 
 </details>
 
+<h1>Life code 🧠</h1>
+  <summary></summary> 
+  
+  
+<div>
 
+ 
 ```cpp
 #include <life.h>
 #include <opportunity.h>
@@ -144,7 +150,7 @@ int main() {
     return 0;
 }
 ```
-
+</div>
 
   ## 📫 Contact
 
