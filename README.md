@@ -99,13 +99,12 @@ me.say_hi()
 </div> 
 
 </details>
-
+<h1>Life code 🧠</h1>
  click 2 display
 <details align="left">
   <summary></summary> 
 	
-<h1>Life code 🧠</h1>
-  <summary></summary> 
+
   
   
 <div>
