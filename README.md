@@ -100,6 +100,10 @@ me.say_hi()
 
 </details>
 
+ click 2 display
+<details align="left">
+  <summary></summary> 
+	
 <h1>Life code 🧠</h1>
   <summary></summary> 
   
@@ -151,6 +155,7 @@ int main() {
 }
 ```
 </div>
+</details>
 
   ## 📫 Contact
 
