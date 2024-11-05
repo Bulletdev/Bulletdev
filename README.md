@@ -69,8 +69,10 @@ me.say_hi()
 	<img align="center" alt="Devroot-React" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
    
   
-</div> 
 
+<div align="center">
+<img align="center" alt="Devroot-React" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+</div>
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 </div>
