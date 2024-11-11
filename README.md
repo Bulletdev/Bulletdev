@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/twitch/status/craquebullet">  
 </a> 
 
-## Hi there, I'm Michael, but could u call me as Bullet! 🏌️‍♂️ 🇺🇸
+## Hi there, I'm Michael, but could u call me as Bullet! 🏌️‍♂️ 🇺🇸 🧩
 Welcome to my profile! ✨
 
 - I'm a Web Developer, mainly java & python, learning Ruby
