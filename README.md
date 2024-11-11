@@ -11,7 +11,7 @@
 Welcome to my profile! ✨
 
 - I'm a Web Developer, mainly java & python, learning Ruby
-- A fun fact about me:  luv 2 play Chess and hear Hungria Hip Hop
+- A fun fact about me:  luv 2 play Chess 
 - My nickname is bullet bcause Chess Bullet mode, My Biggest rating is 3100 ᯓᡣ𐭩
 
 <div>
