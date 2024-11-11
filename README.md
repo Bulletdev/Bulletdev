@@ -28,25 +28,29 @@ Welcome to my profile! ✨
 <p align="center"><i>“There is something in you I like more than yourself. Therefore I must destroy you.”</i></p>
 <p align="center"><i>- Jacques Lacan -</i></p>
 
-```python
+```java
 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+public class SoftwareEngineer {
 
+private String name;
+private String role;
+private String[] languageSpoken;
 
-class SoftwareEngineer:
+public SoftwareEngineer() {
+this.name = "Michael Bullet";
+this.role = "systems analysis and development";
+this.languageSpoken = new String[]{"pt_BR", "en_US"};
+}
 
-    def __init__(self):
-        self.name = "Michael Bullet"
-        self.role = "systems analysis and development"
-        self.language_spoken = ["pt_BR", "en_US"]
+public void sayHi() {
+System.out.println("Hey there, hope you find some of my work interesting. :)");
+}
 
-    def say_hi(self):
-        print("Hey there, hope you find some of my work interesting. :) ")
-
-
-me = systems analysis and development()
-me.say_hi()
+public static void main(String[] args) {
+SoftwareEngineer me = new SoftwareEngineer();
+me.sayHi();
+}
+}
 ```
 
 
