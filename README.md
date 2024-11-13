@@ -118,29 +118,49 @@ me.sayHi();
 
  
 ```java
+import java.util.Scanner;
+
 public class Life {
 public static void main(String[] args) {
+Scanner scanner = new Scanner(System.in);
+
 boolean hasVision = true;
 boolean staysPositive = true;
 boolean worksHard = true;
 boolean learnsFromFailure = true;
 boolean adaptsToChange = true;
-boolean embracesChallenges = true;
+boolean giveUp = false;
 
 final int patience = 100;
 final int consistency = 100;
+final int mentalHealth = 100;
+final int socialSupport = 50;
 
 int currentPatience = patience;
 int currentConsistency = consistency;
+int currentMentalHealth = mentalHealth;
+int currentSocialSupport = socialSupport;
 
-while (hasVision && staysPositive) {
+while (hasVision && staysPositive && !giveUp) {
+System.out.println("Informe suas métricas diárias (0-100):");
+System.out.print("Trabalho duro: ");
+worksHard = scanner.nextInt() > 50;
+System.out.print("Aprendeu com os erros: ");
+learnsFromFailure = scanner.nextInt() > 50;
+System.out.print("Adaptou-se às mudanças: ");
+adaptsToChange = scanner.nextInt() > 50;
+System.out.print("Saúde mental: ");
+currentMentalHealth = scanner.nextInt();
+System.out.print("Suporte social: ");
+currentSocialSupport = scanner.nextInt();
+
 if (worksHard && learnsFromFailure && adaptsToChange) {
 Success success = applyHardwork() + seizeOpportunity();
 keepGoing();
 improveSkills();
 
 if (success.isAchieved()) {
-System.out.println("Congratulations! Success Achieved!");
+System.out.println("Parabéns! Sucesso alcançado!");
 break;
 }
 }
@@ -149,11 +169,41 @@ currentConsistency--;
 currentPatience--;
 
 if (currentConsistency <= 0 || currentPatience <= 0) {
-System.out.println("Keep pushing through! Success takes time.");
+System.out.println("Continue se esforçando! O sucesso leva tempo.");
 currentConsistency = consistency;
 currentPatience = patience;
 }
+
+if (currentMentalHealth <= 0) {
+System.out.println("Saúde mental está baixa. Faça uma pausa e busque suporte.");
+currentMentalHealth = mentalHealth;
+currentSocialSupport += 10; // Aumenta o suporte social após buscar ajuda
 }
+
+if (Math.random() > 0.95) { 
+System.out.println("Sentindo-se sobrecarregado... considerando desistir.");
+giveUp = true;
+}
+
+if (Math.random() > 0.90) { 
+System.out.println("Um evento positivo aconteceu! Sentindo-se mais motivado.");
+currentPatience += 10;
+currentConsistency += 10;
+}
+
+if (Math.random() > 0.85) { 
+System.out.println("Refletindo sobre o progresso... Ajustando estratégias.");
+worksHard = Math.random() > 0.5;
+learnsFromFailure = Math.random() > 0.5;
+adaptsToChange = Math.random() > 0.5;
+}
+}
+
+if (giveUp) {
+System.out.println("Não desista! Reflita, recarregue e tente novamente.");
+}
+
+scanner.close();
 }
 
 private static Success applyHardwork() {
@@ -173,7 +223,8 @@ private static void improveSkills() {
 
 class Success {
 public boolean isAchieved() {
-return true;
+// Implementar lógica para determinar se o sucesso foi alcançado
+return Math.random() > 0.8; 
 }
 }
 ```
