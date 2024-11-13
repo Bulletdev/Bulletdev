@@ -117,47 +117,64 @@ me.sayHi();
 <div>
 
  
-```cpp
-#include <life.h>
-#include <opportunity.h>
-#include <hardwork.h>
-#include <perseverance.h>
-#include <learning.h>
+```java
+public class Life {
+public static void main(String[] args) {
+boolean hasVision = true;
+boolean staysPositive = true;
+boolean worksHard = true;
+boolean learnsFromFailure = true;
+boolean adaptsToChange = true;
+boolean embracesChallenges = true;
 
-int main() {
-    bool hasVision = true;
-    bool staysPositive = true;
-    bool worksHard = true;
-    bool learnsFromFailure = true;
-    bool adaptsToChange = true;
-    bool embracesChallenges = true;
-    
-    const int patience = 100;
-    const int consistency = 100;
+final int patience = 100;
+final int consistency = 100;
 
-    while(hasVision && staysPositive) {
-        if(worksHard && learnsFromFailure && adaptsToChange) {
-            Success success = hardwork::apply() + opportunity::seize();
-            perseverance::keepGoing();
-            learning::improveSkills();
-            
-            if(success.isAchieved()) {
-                std::cout << "Congratulations! Success Achieved!" << std::endl;
-                break;
-            }
-        }
+int currentPatience = patience;
+int currentConsistency = consistency;
 
-        consistency--;
-        patience--;
-        
-        if (consistency <= 0 || patience <= 0) {
-            std::cout << "Keep pushing through! Success takes time." << std::endl;
-            consistency = 100;
-            patience = 100;
-        }
-    }
-    
-    return 0;
+while (hasVision && staysPositive) {
+if (worksHard && learnsFromFailure && adaptsToChange) {
+Success success = applyHardwork() + seizeOpportunity();
+keepGoing();
+improveSkills();
+
+if (success.isAchieved()) {
+System.out.println("Congratulations! Success Achieved!");
+break;
+}
+}
+
+currentConsistency--;
+currentPatience--;
+
+if (currentConsistency <= 0 || currentPatience <= 0) {
+System.out.println("Keep pushing through! Success takes time.");
+currentConsistency = consistency;
+currentPatience = patience;
+}
+}
+}
+
+private static Success applyHardwork() {
+return new Success();
+}
+
+private static Success seizeOpportunity() {
+return new Success();
+}
+
+private static void keepGoing() {
+}
+
+private static void improveSkills() {
+}
+}
+
+class Success {
+public boolean isAchieved() {
+return true;
+}
 }
 ```
 </div>
