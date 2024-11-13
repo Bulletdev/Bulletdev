@@ -10,13 +10,13 @@
 ## Hi there, I'm Michael, but could u call me as Bullet! 🏌️‍♂️ 🇺🇸 🧩
 Welcome to my profile! ✨
 
+<div>
+  <img align="right" alt="Git-Computador" width="150px" height="150px" src="https://i.ibb.co/0XHxTNt/decode-Img.png"/>
+</div>
+
 - I'm a Web Developer, mainly java & python, learning Ruby
 - A fun fact about me:  luv 2 play Chess 
 - My nickname is bullet bcause Chess Bullet mode, My Biggest rating is 3100 ᯓᡣ𐭩
-
-<div>
-  <img align="right" alt="Git-Computador" width="150px" height="150px" src="https://i.ibb.co/p6TGtsM/progressive-bullet-rating-3100-e266c4a9-1.png&name=small"/>
-</div>
 
 
 
