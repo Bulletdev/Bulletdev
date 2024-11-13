@@ -223,7 +223,6 @@ private static void improveSkills() {
 
 class Success {
 public boolean isAchieved() {
-// Implementar lógica para determinar se o sucesso foi alcançado
 return Math.random() > 0.8; 
 }
 }
