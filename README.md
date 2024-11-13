@@ -8,6 +8,7 @@
 </a> 
 
 ## Hi there, I'm Michael, but could u call me as Bullet! 🏌️‍♂️ 🇺🇸 🧩
+
 Welcome to my profile! ✨
 
 <div>
