@@ -15,7 +15,7 @@ Welcome to my profile! ✨
   <img align="right" alt="Git-Computador" width="150px" height="150px" src="https://i.ibb.co/0XHxTNt/decode-Img.png"/>
 </div>
 
-- I'm a Web Developer, mainly java & python, studying machine learning
+- I'm a Web Developer, mainly java & python, studying Golang
 - A fun fact about me:  luv 2 play Chess 
 - My nickname is bullet bcause Chess Bullet mode, My Biggest rating is 3100 ᯓᡣ𐭩
 
