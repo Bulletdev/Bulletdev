@@ -1,12 +1,12 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-<code><a href="https://www.hackerrank.com/craquebullet" title="HackerRank Profile"><img width="22" src="https://i.ibb.co/P5W5dLW/hackerrank.png"> HackerRank</a></code>
-<code><a href="https://stackoverflow.com/users/27412594/michael-bullet?tab=profile" title="Stack Overflow Profile"><img width="22" src="https://i.ibb.co/W67KFp9/768px-Stack-Overflow-icon-svg.png"> Stack Overflow</a></code>
-<code><a href="https://www.chess.com/member/craquebullet" title="Chess.com"><img width="18" src="https://i.ibb.co/M7S1LKr/phpk-XK09k.png"> Chess.com</a></code>
-<a href="https://www.twitch.tv/craquebullet">
-<img src="https://img.shields.io/twitch/status/craquebullet">  
-</a> 
- 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev) 
+<div align="left"> <a href="https://www.hackerrank.com/craquebullet" title="HackerRank Profile" target="_blank"> <img width="22" src="https://i.ibb.co/P5W5dLW/hackerrank.png"> HackerRank </a> <a href="https://stackoverflow.com/users/27412594/michael-bullet?tab=profile" title="Stack Overflow Profile" target="_blank"> <img width="22" src="https://i.ibb.co/W67KFp9/768px-Stack-Overflow-icon-svg.png"> Stack Overflow </a>  <a href="https://www.chess.com/member/craquebullet" title="Chess.com" target="_blank"> <img width="18" src="https://i.ibb.co/M7S1LKr/phpk-XK09k.png"> Chess.com </a> <a href="https://www.twitch.tv/craquebullet" target="_blank"> <img src="https://img.shields.io/twitch/status/craquebullet"> </a> </div> 
+
+<div>
+
+</div> 
+
+	
 ## Hi there, I'm Michael, but can u call me as Bullet! 🏌️‍♂️ 🇺🇸 🧩
 
 Welcome to my profile! ✨
