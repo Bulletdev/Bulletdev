@@ -67,10 +67,11 @@ me.sayHi();
 </div>
 <div align="center">
 <img align="center" alt="Devroot-Js" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
- 	 <img align="center" alt="Devroot-CSS" height="49" width="49" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  		<img align="center" alt="Devroot-React" height="41" width="41"  
+	<img align="center" alt="Devroot-React" height="41" width="41"  
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  		<img align="center" alt="Devroot-React" height="41" width="41"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+ 	 <img align="center" alt="Devroot-CSS" height="49" width="49" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  		
+  <img align="center" alt="Devroot-React" height="41" width="41"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
 	<img align="center" alt="Devroot-React" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
    
   
