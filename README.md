@@ -14,7 +14,7 @@ Welcome to my profile! ✨
   <img align="right" alt="Git-Computador" width="330px" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
 </div>
 
-- I'm a Web Developer, mainly java & python, studying Golang Perl & RUST
+- I'm a Web Developer, mainly java & python, studying Golang, Perl & RUST
 - A fun fact about me:  luv 2 play Chess 
 - My nickname is bullet bcause Chess Bullet mode, My Biggest rating is 3100 ᯓᡣ𐭩
 
@@ -235,7 +235,7 @@ return Math.random() > 0.8;
 
  Se precisar de ajuda ou tiver dúvidas e sugestões, entre em contato comigo 😉 
  
- <a href = "mailto:craquebullet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:contato@michaelbullet.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michael-bullet" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  <details align="left">
