@@ -20,10 +20,10 @@ Welcome to my profile! ✨
 
 
 ---
-Meu Portfolio
+My Portfolio
 
 <a href="https://www.michaelbullet.com">
-  <img src="https://i.ibb.co/SRyDpt5/logo-bullet-png.png" alt="Meu Site Logo" width="60">
+  <img src="https://i.ibb.co/SRyDpt5/logo-bullet-png.png" alt="Meu Site Logo" width="70">
 </a>  
 
 
