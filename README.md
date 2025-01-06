@@ -18,7 +18,8 @@ Welcome to my profile! ✨
 - A fun fact about me:  luv 2 play Chess 
 - My nickname is bullet bcause Chess Bullet mode, My Biggest rating is 3100 ᯓᡣ𐭩
 
-- I'm developer since 12 years old ( 2013 ) coding into C and Ruby - A Lan house owner ruby dev teach me - Mr Nathan, thank u so much
+- I'm developer since 12 years old ( 2013 ) coding into C and Ruby
+- - A Lan house owner ruby dev teach me - Mr Nathan, thank u so much
   
 ---
 My Portfolio
