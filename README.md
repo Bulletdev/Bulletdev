@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev) 
 <div align="left"> <a href="https://www.hackerrank.com/craquebullet" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/P5W5dLW/hackerrank.png"> HackerRank </a> <a href="https://stackoverflow.com/users/27412594/michael-bullet?tab=profile" title="Stack Overflow Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/W67KFp9/768px-Stack-Overflow-icon-svg.png"> Stack Overflow </a> <a href="https://www.chess.com/member/craquebullet" title="Chess.com" target="_blank" rel="noopener noreferrer"> <img width="18" src="https://i.ibb.co/M7S1LKr/phpk-XK09k.png"> Chess.com </a> <a href="https://www.twitch.tv/bulletonrails" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/craquebullet"> </a> </div>
 <div>
-
+ 
 </div> 
 
 	
