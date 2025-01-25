@@ -87,8 +87,20 @@ me.sayHi();
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21q6zoxrzq55odgdg3r7xcesq)
 </div>
 
-<h1>Chess♟️</h1> click 2 display
+
+## 📫 Contact
+
+ Se precisar de ajuda ou tiver dúvidas e sugestões, entre em contato comigo 😉 
+ 
+ <a href = "mailto:contato@michaelbullet.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/michael-bullet" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+ <details align="left">
+  <summary></summary> 
+	 
 <details align="left">
+<h1>Chess♟️</h1> click 2 display
+
   <summary></summary> 
   
   
@@ -232,15 +244,7 @@ return Math.random() > 0.8;
 </div>
 </details>
 
-  ## 📫 Contact
 
- Se precisar de ajuda ou tiver dúvidas e sugestões, entre em contato comigo 😉 
- 
- <a href = "mailto:contato@michaelbullet.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/michael-bullet" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- <details align="left">
-  <summary></summary> 
  <h1>  
  Assinaturas:
  </h1>
