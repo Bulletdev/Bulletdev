@@ -86,7 +86,7 @@ me.sayHi();
 </div>
 
 
-<div align="left">
+<div align="Center">
 	
  ## 🏗️ DevOps
 	
