@@ -109,7 +109,9 @@ me.sayHi();
 	<a href="https://www.redhat.com/en/ansible-collaborative">
     <img src="https://img.shields.io/badge/Ansible-632CA5.svg?style=for-the-badge&logo=Ansible&logoColor=white">
 </a>
-
+<a href="https://kubernetes.io/pt-br/">
+    <img src="https://img.shields.io/badge/Kubernetes-ADD8E6.svg?style=for-the-badge&logo=Kubernetes&logoColor=white">
+</a>
 	
 </div>
 
