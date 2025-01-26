@@ -87,6 +87,30 @@ me.sayHi();
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21q6zoxrzq55odgdg3r7xcesq)
 </div>
 
+<div align="left">
+  <h3> Devops </h3>
+  <a href="https://prometheus.io/">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+  </a>
+  <a href="https://grafana.com/">
+    <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
+  </a>
+  <a href="https://www.datadoghq.com/">
+    <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white">
+  </a>
+  <a href="https://www.jaegertracing.io">
+    <img src="https://img.shields.io/badge/jaeger-0072C6.svg?style=for-the-badge&logo=Jaeger&logoColor=white">
+</a>
+    </a>
+  <a href="https://www.terraform.io">
+    <img src="https://img.shields.io/badge/Terraform-%25632CA5.svg?style=for-the-badge&logo=Terraform&logoColor=white">
+  </a>
+	<a href="https://www.redhat.com/en/ansible-collaborative">
+    <img src="https://img.shields.io/badge/Ansible-632CA5.svg?style=for-the-badge&logo=Ansible&logoColor=white">
+</a>
+
+	
+</div>
 
 ## 📫 Contact
 
