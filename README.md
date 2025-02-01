@@ -82,6 +82,8 @@ me.sayHi();
   
 
 <div align="center">
+<img align="center" alt="Devroot-React" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg">
+
 <img align="center" alt="Devroot-React" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 </div>
 
