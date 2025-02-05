@@ -3,14 +3,6 @@
 
 
 <div align="left"> <a href="https://www.hackerrank.com/craquebullet" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/P5W5dLW/hackerrank.png"> HackerRank </a> <a href="https://stackoverflow.com/users/27412594/michael-bullet?tab=profile" title="Stack Overflow Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/W67KFp9/768px-Stack-Overflow-icon-svg.png"> Stack Overflow </a> <a href="https://www.chess.com/member/craquebullet" title="Chess.com" target="_blank" rel="noopener noreferrer"> <img width="18" src="https://i.ibb.co/M7S1LKr/phpk-XK09k.png"> Chess.com </a> <a href="https://www.twitch.tv/bulletonrails" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/bulletonrails"> </a> 
-
- <a href="https://dev.to/bulletdev">
-  <img alt="Michael Bullet's Dev.to" width="120em" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-</a>
-<a href="https://medium.com/@craquebullet">
- <img alt="Michael Bullet's Medium" width="120em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
 </div>
 
 	
@@ -62,11 +54,10 @@ me.sayHi();
 }
 ```
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-bullet/)
-
- <div align="center">
-	 
+ <a href="https://dev.to/bulletdev">
+  <img alt="Michael Bullet's Dev.to" width="120em" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+	 <a href="https://medium.com/@craquebullet"> <img alt="Michael Bullet's Medium" width="120em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+		 	 
 ## 📊 Statistics
 
 <div align="center">
