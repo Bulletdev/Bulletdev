@@ -57,7 +57,9 @@ me.sayHi();
  <a href="https://dev.to/bulletdev">
   <img alt="Michael Bullet's Dev.to" width="120em" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	 <a href="https://medium.com/@craquebullet"> <img alt="Michael Bullet's Medium" width="120em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-		 	 
+		 
+<div align="center">
+	
 ## 📊 Statistics
 
 <div align="center">
@@ -65,7 +67,7 @@ me.sayHi();
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bulletdev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bulletdev&layout=compact&langs_count=6&theme=jolly&hide=html,css,javascript,typescript,GLSL,PLpgSQL,PLSQL,Roff,TSQL,Dockerfile,Makefile,C+,C#,C++ ,C++,"/>
 
-</div>
+
 
 ## ☰ Stacks
 
@@ -79,6 +81,7 @@ me.sayHi();
 	<img align="center" alt="Devroot-React" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
    
   
+</div>
 
 <div align="center">
 <img align="center" alt="Devroot-React" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg">
