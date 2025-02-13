@@ -29,6 +29,8 @@ Welcome to my profile! ✨
 <p align="center"><i>“There is something in you I like more than yourself. Therefore I must destroy you.”</i></p>
 <p align="center"><i>- Jacques Lacan -</i></p>
 
+<details align="left" <h1> Bullet.jar </h1>>
+	
 ```java
 
 public class SoftwareEngineer {
@@ -53,6 +55,7 @@ me.sayHi();
 }
 }
 ```
+</details>
 
  <a href="https://dev.to/bulletdev">
   <img alt="Michael Bullet's Dev.to" width="120em" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
