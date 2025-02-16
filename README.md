@@ -29,38 +29,6 @@ Welcome to my profile! ✨
 <p align="center"><i>“There is something in you I like more than yourself. Therefore I must destroy you.”</i></p>
 <p align="center"><i>- Jacques Lacan -</i></p>
 
-<details align="left" <h1> Bullet.jar </h1>>
-	
-```java
-
-public class SoftwareEngineer {
-
-private String name;
-private String role;
-private String[] languageSpoken;
-
-public SoftwareEngineer() {
-this.name = "Michael Bullet";
-this.role = "systems analysis and development";
-this.languageSpoken = new String[]{"pt_BR", "en_US"};
-}
-
-public void sayHi() {
-System.out.println("Hey there, hope you find some of my work interesting. :)");
-}
-
-public static void main(String[] args) {
-SoftwareEngineer me = new SoftwareEngineer();
-me.sayHi();
-}
-}
-```
-</details>
-
- <a href="https://dev.to/bulletdev">
-  <img alt="Michael Bullet's Dev.to" width="120em" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-	 <a href="https://medium.com/@craquebullet"> <img alt="Michael Bullet's Medium" width="120em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-		 
 <div align="center">
 	
 ## 📊 Statistics
@@ -136,6 +104,12 @@ me.sayHi();
  
  <a href = "mailto:contato@michaelbullet.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michael-bullet" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  
+ <a href="https://dev.to/bulletdev">
+  <img alt="Michael Bullet's Dev.to" width="120em" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+	 <a href="https://medium.com/@craquebullet"> <img alt="Michael Bullet's Medium" width="120em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+		 
   
  <details align="left">
   <summary></summary> 
@@ -160,132 +134,10 @@ me.sayHi();
 | 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) |
 
 </div> 
-
-</details>
-<h1>Life code 🧠</h1>
- click 2 display
-<details align="left">
-  <summary></summary> 
-	
-
-  
   
 <div>
 
  
-```java
-import java.util.Scanner;
-
-public class Life {
-public static void main(String[] args) {
-Scanner scanner = new Scanner(System.in);
-
-boolean hasVision = true;
-boolean staysPositive = true;
-boolean worksHard = true;
-boolean learnsFromFailure = true;
-boolean adaptsToChange = true;
-boolean giveUp = false;
-
-final int patience = 100;
-final int consistency = 100;
-final int mentalHealth = 100;
-final int socialSupport = 50;
-
-int currentPatience = patience;
-int currentConsistency = consistency;
-int currentMentalHealth = mentalHealth;
-int currentSocialSupport = socialSupport;
-
-while (hasVision && staysPositive && !giveUp) {
-System.out.println("Informe suas métricas diárias (0-100):");
-System.out.print("Trabalho duro: ");
-worksHard = scanner.nextInt() > 50;
-System.out.print("Aprendeu com os erros: ");
-learnsFromFailure = scanner.nextInt() > 50;
-System.out.print("Adaptou-se às mudanças: ");
-adaptsToChange = scanner.nextInt() > 50;
-System.out.print("Saúde mental: ");
-currentMentalHealth = scanner.nextInt();
-System.out.print("Suporte social: ");
-currentSocialSupport = scanner.nextInt();
-
-if (worksHard && learnsFromFailure && adaptsToChange) {
-Success success = applyHardwork() + seizeOpportunity();
-keepGoing();
-improveSkills();
-
-if (success.isAchieved()) {
-System.out.println("Parabéns! Sucesso alcançado!");
-break;
-}
-}
-
-currentConsistency--;
-currentPatience--;
-
-if (currentConsistency <= 0 || currentPatience <= 0) {
-System.out.println("Continue se esforçando! O sucesso leva tempo.");
-currentConsistency = consistency;
-currentPatience = patience;
-}
-
-if (currentMentalHealth <= 0) {
-System.out.println("Saúde mental está baixa. Faça uma pausa e busque suporte.");
-currentMentalHealth = mentalHealth;
-currentSocialSupport += 10; // Aumenta o suporte social após buscar ajuda
-}
-
-if (Math.random() > 0.95) { 
-System.out.println("Sentindo-se sobrecarregado... considerando desistir.");
-giveUp = true;
-}
-
-if (Math.random() > 0.90) { 
-System.out.println("Um evento positivo aconteceu! Sentindo-se mais motivado.");
-currentPatience += 10;
-currentConsistency += 10;
-}
-
-if (Math.random() > 0.85) { 
-System.out.println("Refletindo sobre o progresso... Ajustando estratégias.");
-worksHard = Math.random() > 0.5;
-learnsFromFailure = Math.random() > 0.5;
-adaptsToChange = Math.random() > 0.5;
-}
-}
-
-if (giveUp) {
-System.out.println("Não desista! Reflita, recarregue e tente novamente.");
-}
-
-scanner.close();
-}
-
-private static Success applyHardwork() {
-return new Success();
-}
-
-private static Success seizeOpportunity() {
-return new Success();
-}
-
-private static void keepGoing() {
-}
-
-private static void improveSkills() {
-}
-}
-
-class Success {
-public boolean isAchieved() {
-return Math.random() > 0.8; 
-}
-}
-```
-</div>
-</details>
-
 
  <h1>  
  Assinaturas:
