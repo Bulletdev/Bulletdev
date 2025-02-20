@@ -114,8 +114,7 @@ Welcome to my profile! ✨
  <details align="left">
   <summary></summary> 
 	 
-<details align="left">
-<h1>Chess♟️</h1> click 2 display
+<h1>Chess♟️</h1>
 
   <summary></summary> 
   
@@ -160,10 +159,7 @@ Welcome to my profile! ✨
 
              
   </div>
-<div align="center"> 
-
- 
-</div>
+  
 <br><br>
 
 <pre>
@@ -178,5 +174,3 @@ Welcome to my profile! ✨
  </pre>
 
 
-
-</details>
