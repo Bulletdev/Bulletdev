@@ -15,7 +15,7 @@ Welcome to my profile! ✨
   <img align="right" alt="Git-Computador" width="330px" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
 </div>
 
-- I'm a Developer Advocate mainly Java & Golang, Python & Ruby enthusiast, studying Zig, Crystal & nim
+- I'm a Developer Advocate mainly Java & Golang, Python & Ruby enthusiast, studying Zig, elixir & bun
 - A fun fact about me:  luv 2 play Chess 
 - My nickname is bullet bcause Chess Bullet mode, My Biggest rating is 3100 ᯓᡣ𐭩
   
