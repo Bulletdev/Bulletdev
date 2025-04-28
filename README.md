@@ -3,7 +3,7 @@
 <a href="https://www.twitch.tv/bulletonrails" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/bulletonrails"> </a> 
 
 <a href="https://www.bulletonrails.me" title="Meu Blog" target="_blank" rel="noopener noreferrer">
-  <img width="22" src="https://i.ibb.co/RTQp0Vjj/ruby.png"> Meu Blog
+  <img width="22" src="https://i.ibb.co/RTQp0Vjj/ruby.png"> My Blog
 </a>
 <a href="https://www.hackerrank.com/craquebullet" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/P5W5dLW/hackerrank.png"> HackerRank </a>   <a href="https://www.credly.com/users/michael-bullet/" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="25" src="https://i.ibb.co/b4xrkRV/icons8-credly-80-1.png"> Credly </a> <a href="https://stackoverflow.com/users/27412594/michael-bullet?tab=profile" title="Stack Overflow Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/W67KFp9/768px-Stack-Overflow-icon-svg.png"> Stack Overflow </a>
 	<a href="https://www.chess.com/member/craquebullet" title="Chess.com" target="_blank" rel="noopener noreferrer"> <img width="18" src="https://i.ibb.co/M7S1LKr/phpk-XK09k.png"> Chess.com </a>
@@ -107,7 +107,7 @@ Welcome to my profile! ✨
 
 ## 📫 Contact
 
- Se precisar de ajuda ou tiver dúvidas e sugestões, entre em contato comigo 😉 
+Need help?, stay free to contact me 😉 
  
  <a href = "mailto:contato@michaelbullet.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michael-bullet" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -126,7 +126,7 @@ Welcome to my profile! ✨
  
 
  <h1>  
- Assinaturas:
+ Signatures:
  </h1>
  
  <div>
