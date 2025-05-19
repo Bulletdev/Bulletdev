@@ -53,9 +53,10 @@ Welcome to my profile! ✨
 ![Nmap](https://img.shields.io/badge/Nmap-FF6200?style=for-the-badge&logoColor=white)
 ![TOR](https://img.shields.io/badge/tor-7E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logoColor=fff)
-![Nmap](https://img.shields.io/badge/Nmap-FF6200?style=for-the-badge&logoColor=white)
 ![FFUF](https://img.shields.io/badge/FFUF-6A0DAD?style=for-the-badge&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-008080?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logoColor=white)
+![Acunetix](https://img.shields.io/badge/Acunetix-A30000?style=for-the-badge&logoColor=white)
 
 ## ☰ Stacks
 
