@@ -5,7 +5,8 @@
 <a href="https://www.bulletonrails.me" title="Meu Blog" target="_blank" rel="noopener noreferrer">
   <img width="22" src="https://i.ibb.co/RTQp0Vjj/ruby.png"> My Blog
 </a>
-<a href="https://www.hackerrank.com/craquebullet" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/P5W5dLW/hackerrank.png"> HackerRank </a>   <a href="https://www.credly.com/users/michael-bullet/" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <a href="https://stackoverflow.com/users/27412594/michael-bullet?tab=profile" title="Stack Overflow Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/W67KFp9/768px-Stack-Overflow-icon-svg.png"> Stack Overflow </a>
+<a href="https://www.hackerrank.com/craquebullet" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/P5W5dLW/hackerrank.png"> HackerRank </a> 
+<a href="https://www.hackerrank.com/craquebullet" title="Hellb" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/0y2MQMvS/hbh-logo.png"> HellboundHackers </a>   <a href="https://www.credly.com/users/michael-bullet/" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <a href="https://stackoverflow.com/users/27412594/michael-bullet?tab=profile" title="Stack Overflow Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/W67KFp9/768px-Stack-Overflow-icon-svg.png"> Stack Overflow </a>
 	<a href="https://www.chess.com/member/craquebullet" title="Chess.com" target="_blank" rel="noopener noreferrer"> <img width="15" src="https://i.ibb.co/M7S1LKr/phpk-XK09k.png"> Chess.com </a>
 </div>
 
@@ -43,8 +44,14 @@ Welcome to my profile! ✨
   <a href="https://ayo.so/bullet"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bulletdev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bulletdev&layout=compact&langs_count=6&theme=jolly&hide=html,css,javascript,typescript,GLSL,PLpgSQL,PLSQL,Roff,TSQL,Dockerfile,Makefile,C+,C#,C++,Batchfile"/>
- 
-
+	
+ ## ☰ Pentesting
+![Metasploit](https://img.shields.io/badge/Metasploit-D61F1F?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00A86B?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-FF6200?style=for-the-badge&logoColor=white)
+![TOR](https://img.shields.io/badge/tor-7E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logoColor=fff)
 
 ## ☰ Stacks
 
