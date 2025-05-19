@@ -1,6 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev) 
 <a href="https://www.twitch.tv/bulletonrails/about" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/bulletonrails"> </a> 
+  <img align="right" alt="Git-Computador" width="280" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
 
 <a href="https://www.bulletonrails.me" title="Meu Blog" target="_blank" rel="noopener noreferrer">
   <img width="22" src="https://i.ibb.co/RTQp0Vjj/ruby.png"> My Blog
@@ -14,10 +15,10 @@
 	
 ## Hi there, I'm Michael, but can u call me as Bullet! 🏌️‍♂️ 🇺🇸 🧩
 
+
 Welcome to my profile! ✨
 
 <div>
-  <img align="right" alt="Git-Computador" width="290px" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
  <img align="right" alt="Git-Computador" width="150px" src="https://i.ibb.co/HLJvX6Bb/22640d56-a5bc-4814-8f41-060859df1ae3.png"/>
 <img align="right" alt="Git-Computador" width="150px" src="https://i.ibb.co/tw79H8qS/CEH-2-E345519-D3-F7.png"/>
 </div>
