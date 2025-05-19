@@ -1,12 +1,12 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev) 
-<a href="https://www.twitch.tv/bulletonrails" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/bulletonrails"> </a> 
+<a href="https://www.twitch.tv/bulletonrails/about" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/bulletonrails"> </a> 
 
 <a href="https://www.bulletonrails.me" title="Meu Blog" target="_blank" rel="noopener noreferrer">
   <img width="22" src="https://i.ibb.co/RTQp0Vjj/ruby.png"> My Blog
 </a>
-<a href="https://www.hackerrank.com/craquebullet" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/P5W5dLW/hackerrank.png"> HackerRank </a>   <a href="https://www.credly.com/users/michael-bullet/" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="25" src="https://i.ibb.co/b4xrkRV/icons8-credly-80-1.png"> Credly </a> <a href="https://stackoverflow.com/users/27412594/michael-bullet?tab=profile" title="Stack Overflow Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/W67KFp9/768px-Stack-Overflow-icon-svg.png"> Stack Overflow </a>
-	<a href="https://www.chess.com/member/craquebullet" title="Chess.com" target="_blank" rel="noopener noreferrer"> <img width="18" src="https://i.ibb.co/M7S1LKr/phpk-XK09k.png"> Chess.com </a>
+<a href="https://www.hackerrank.com/craquebullet" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/P5W5dLW/hackerrank.png"> HackerRank </a>   <a href="https://www.credly.com/users/michael-bullet/" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <a href="https://stackoverflow.com/users/27412594/michael-bullet?tab=profile" title="Stack Overflow Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/W67KFp9/768px-Stack-Overflow-icon-svg.png"> Stack Overflow </a>
+	<a href="https://www.chess.com/member/craquebullet" title="Chess.com" target="_blank" rel="noopener noreferrer"> <img width="15" src="https://i.ibb.co/M7S1LKr/phpk-XK09k.png"> Chess.com </a>
 </div>
 
 	
@@ -15,12 +15,14 @@
 Welcome to my profile! ✨
 
 <div>
-  <img align="right" alt="Git-Computador" width="330px" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
+  <img align="right" alt="Git-Computador" width="290px" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
+ <img align="right" alt="Git-Computador" width="150px" src="https://i.ibb.co/HLJvX6Bb/22640d56-a5bc-4814-8f41-060859df1ae3.png"/>
+<img align="right" alt="Git-Computador" width="150px" src="https://i.ibb.co/tw79H8qS/CEH-2-E345519-D3-F7.png"/>
 </div>
 
-- I'm a Developer Advocate mainly Java & Golang, Python & Ruby enthusiast, studying Zig, elixir & bun
+- I'm a Developer Advocate mainly Java & Golang, Python & Ruby enthusiast
 - A fun fact about me:  luv 2 play Chess 
-- My nickname is bullet bcause Chess Bullet mode, My Biggest rating is 3100 ᯓᡣ𐭩
+- My nickname is bullet bcause Chess Bullet mode, Biggest rating 3100 ᯓᡣ𐭩
   
 ---
 
