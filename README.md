@@ -13,11 +13,13 @@
 </div>
 <img align="right" alt="Git-Computador" width="280" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
 	
+<div>
+	
 ## Hi there, I'm Michael, but can u call me as Bullet! 🏌️‍♂️ 🇺🇸 🧩
 
 <div>
 	
-- # Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+ # Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 </div>
 
