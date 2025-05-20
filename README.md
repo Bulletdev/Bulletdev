@@ -1,7 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev) 
 <a href="https://www.twitch.tv/bulletonrails/about" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/bulletonrails"> </a> 
-  <img align="right" alt="Git-Computador" width="280" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
+  
 
 <a href="https://www.bulletonrails.me" title="Meu Blog" target="_blank" rel="noopener noreferrer">
   <img width="22" src="https://i.ibb.co/RTQp0Vjj/ruby.png"> My Blog
@@ -11,27 +11,29 @@
 <a href="https://hackerone.com/public_void?type=user" title="HackerOne" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/RXYPZVX/hackeronew.png"> Hackerone </a>  <a href="https://www.credly.com/users/michael-bullet/" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <a href="https://stackoverflow.com/users/27412594/michael-bullet?tab=profile" title="Stack Overflow Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/W67KFp9/768px-Stack-Overflow-icon-svg.png"> Stack Overflow </a>
 	<a href="https://www.chess.com/member/craquebullet" title="Chess.com" target="_blank" rel="noopener noreferrer"> <img width="15" src="https://i.ibb.co/M7S1LKr/phpk-XK09k.png"> Chess.com </a>
 </div>
-
+<img align="right" alt="Git-Computador" width="280" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
 	
 ## Hi there, I'm Michael, but can u call me as Bullet! 🏌️‍♂️ 🇺🇸 🧩
 
+<div>
+	
+- # Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+
+</div>
 
 Welcome to my profile! ✨
 
-<div>
- <img align="right" alt="Git-Computador" width="150px" src="https://i.ibb.co/HLJvX6Bb/22640d56-a5bc-4814-8f41-060859df1ae3.png"/>
-<img align="right" alt="Git-Computador" width="150px" src="https://i.ibb.co/tw79H8qS/CEH-2-E345519-D3-F7.png"/>
-</div>
 
 - I'm a Developer Advocate mainly Java & Golang, Python & Ruby enthusiast
 - A fun fact about me:  luv 2 play Chess 
 - My nickname is bullet bcause Chess Bullet mode, Biggest rating 3100 ᯓᡣ𐭩
   
+<div>
+ <img align="right" alt="Git-Computador" width="150px" src="https://i.ibb.co/HLJvX6Bb/22640d56-a5bc-4814-8f41-060859df1ae3.png"/>
+<img align="right" alt="Git-Computador" width="150px" src="https://i.ibb.co/tw79H8qS/CEH-2-E345519-D3-F7.png"/>
+</div>
 ---
 
-
-
-- # Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 
 <a href="https://www.pensador.com/colecao/michaelbullet" title="Pensador"> <img height="21em" src="https://cdn.pensador.com/img/logo.png"></a>
