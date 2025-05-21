@@ -1,9 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev) 
+<div>
 <a href="https://www.twitch.tv/bulletonrails/about" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/bulletonrails"> </a> 
   
-<img align="right" alt="Git-Computador" width="280" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
-
 <a href="https://www.bulletonrails.me" title="Meu Blog" target="_blank" rel="noopener noreferrer">
   <img width="22" src="https://i.ibb.co/RTQp0Vjj/ruby.png"> My Blog
 </a>
@@ -13,7 +12,8 @@
 	<a href="https://www.chess.com/member/craquebullet" title="Chess.com" target="_blank" rel="noopener noreferrer"> <img width="15" src="https://i.ibb.co/M7S1LKr/phpk-XK09k.png"> Chess.com </a>
 </div>
 
-	
+<img align="right" alt="Git-Computador" width="280" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
+
 <div>
 	
 ## Hi there, I'm Michael, but can u call me as Bullet! 🏌️‍♂️ 🇺🇸 🧩
