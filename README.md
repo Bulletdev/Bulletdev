@@ -11,7 +11,12 @@
 <a href="https://hackerone.com/public_void?type=user" title="HackerOne" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/RXYPZVX/hackeronew.png"> Hackerone </a>  <a href="https://www.credly.com/users/michael-bullet/" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <a href="https://stackoverflow.com/users/27412594/michael-bullet?tab=profile" title="Stack Overflow Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/W67KFp9/768px-Stack-Overflow-icon-svg.png"> Stack Overflow </a>
 	<a href="https://www.chess.com/member/craquebullet" title="Chess.com" target="_blank" rel="noopener noreferrer"> <img width="15" src="https://i.ibb.co/M7S1LKr/phpk-XK09k.png"> Chess.com </a>
 </div>
+
+ <div>
+
 <img align="right" alt="Git-Computador" width="280" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
+
+</div>
 	
 <div>
 	
