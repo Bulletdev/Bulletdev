@@ -1,6 +1,9 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)
 <a href="https://www.twitch.tv/bulletonrails/about" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/bulletonrails"> </a> 
+
+<img align="right" alt="Git-Computador" width="260" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
+
 
 <div>
 
@@ -11,8 +14,6 @@
 <a href="https://hackerone.com/public_void?type=user" title="HackerOne" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/RXYPZVX/hackeronew.png"> Hackerone </a>  <a href="https://www.credly.com/users/michael-bullet/" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <a href="https://stackoverflow.com/users/27412594/michael-bullet?tab=profile" title="Stack Overflow Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/W67KFp9/768px-Stack-Overflow-icon-svg.png"> Stack Overflow </a>
 	<a href="https://www.chess.com/member/craquebullet" title="Chess.com" target="_blank" rel="noopener noreferrer"> <img width="15" src="https://i.ibb.co/M7S1LKr/phpk-XK09k.png"> Chess.com </a>
 </div>
-
-<img align="right" alt="Git-Computador" width="260" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
 
 <div>
 	
