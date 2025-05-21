@@ -1,3 +1,5 @@
+<img align="right" alt="Git-Computador" width="260" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
+
  <div>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
@@ -6,7 +8,7 @@
 
 </div>
 
-<img align="right" alt="Git-Computador" width="260" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
+
 
 
 <div>
