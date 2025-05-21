@@ -1,7 +1,6 @@
-<img align="right" alt="Git-Computador" width="260" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
-
  <div>
-
+<img align="right" alt="Git-Computador" width="260" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
+	 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)
 <a href="https://www.twitch.tv/bulletonrails/about" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/bulletonrails"> </a> 
