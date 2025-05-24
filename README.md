@@ -23,7 +23,7 @@
 
 <div>
 	
-## Hi there, I'm Michael, but can u call me as Bullet! 🏌️‍♂️ 🇺🇸 🧩
+## Hi there, I'm Michael, but u can call me as Bullet! 🏌️‍♂️ 🇺🇸 🧩
 
 <div>
 	
