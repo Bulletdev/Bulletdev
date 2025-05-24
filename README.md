@@ -36,7 +36,7 @@ Welcome to my profile! ✨
 
 - I'm a Developer Advocate mainly Java & Golang, Python & Ruby enthusiast
 - A fun fact about me:  luv 2 play Chess 
-- My nickname is bullet bcause Chess Bullet mode, Biggest rating 3100 ᯓᡣ𐭩
+- My nickname is bullet bcause Chess Bullet mode, highest  rating 3100 ᯓᡣ𐭩
   
 <div>
  <img align="right" alt="Git-Computador" width="150px" src="https://i.ibb.co/HLJvX6Bb/22640d56-a5bc-4814-8f41-060859df1ae3.png"/>
