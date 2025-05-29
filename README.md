@@ -24,13 +24,13 @@
 
 <div>
 <a href="https://hbh.sh/user/MitnickBR" title="Hellb" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/0y2MQMvS/hbh-logo.png"> HellboundHackers </a>   
-<a href="https://hackerone.com/public_void?type=user" title="HackerOne" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/RXYPZVX/hackeronew.png"> Hackerone </a>  <a href="https://www.credly.com/users/michael-bullet/" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <a href="https://stackoverflow.com/users/27412594/michael-bullet?tab=profile" title="Stack Overflow Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/W67KFp9/768px-Stack-Overflow-icon-svg.png"> Stack Overflow </a>
+<a href="https://hackerone.com/public_void?type=user" title="HackerOne" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/RXYPZVX/hackeronew.png"> Hackerone </a>  <a href="https://www.credly.com/users/michael-bullet/" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> 
 	<a href="https://www.chess.com/member/craquebullet" title="Chess.com" target="_blank" rel="noopener noreferrer"> <img width="15" src="https://i.ibb.co/M7S1LKr/phpk-XK09k.png"> Chess.com </a>
 </div>
 
 <div>
 	
-## Hi there, I'm Michael, but u can call me as Bullet! 🏌️‍♂️ 🇺🇸 🧩
+## Hi there, I'm Michael, but you can call me Bullet!! 🏌️‍♂️ 🇺🇸 🧩
 
 <div>
 	
@@ -42,8 +42,8 @@ Welcome to my profile! ✨
 
 
 - I'm a Developer Advocate mainly Java & Golang, Python & Ruby enthusiast
-- A fun fact about me:  luv 2 play Chess 
-- My nickname is bullet bcause Chess Bullet mode, highest  rating 3100 ᯓᡣ𐭩
+- A fun fact about me: I love to play chess
+- My nickname is Bullet because of my chess rating: Bullet Mode (3100) | Rapid (2100) ᯓᡣ𐭩
   
 <div>
  <img align="right" alt="Git-Computador" width="150px" src="https://i.ibb.co/HLJvX6Bb/22640d56-a5bc-4814-8f41-060859df1ae3.png"/>
@@ -140,7 +140,7 @@ Welcome to my profile! ✨
 
 ## 📫 Contact
 
-Need help?, stay free to contact me 😉 
+Need help? Feel free to contact me 😉
  
  <a href = "mailto:contato@michaelbullet.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michael-bullet" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
