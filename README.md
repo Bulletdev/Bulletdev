@@ -13,9 +13,12 @@
 
 </div>
 
+ <details align="left">
+
 <div>
 <img align="right" alt="Git-Computador" width="260" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
-	 
+</details> 
+	
 <a href="https://www.bulletonrails.me" title="Meu Blog" target="_blank" rel="noopener noreferrer">
 <img width="22" src="https://i.ibb.co/RTQp0Vjj/ruby.png"> My Blog
 <a href="https://www.hackerrank.com/craquebullet" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/P5W5dLW/hackerrank.png"> HackerRank </a> 
