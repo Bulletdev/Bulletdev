@@ -35,7 +35,6 @@
 </div>
 
 *  Sou apaixonado por Java, segurança ofensiva e engenharia reversa.
-* ♟️ Gosto de jogar xadrez — Bullet (3100) | Rapid (2100)
 *  Crio ferramentas e conteúdos voltados para Devs e Pentesters.
 
 
