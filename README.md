@@ -54,18 +54,6 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/>
 </div>
 
-<div align="center">
-
-##  Ferramentas de Pentest
-
-![Metasploit](https://img.shields.io/badge/Metasploit-D61F1F?style=for-the-badge\&logo=metasploit\&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge\&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-FF6200?style=for-the-badge\&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-008080?style=for-the-badge\&logoColor=white)
-![FFUF](https://img.shields.io/badge/FFUF-6A0DAD?style=for-the-badge\&logoColor=white)
-</div>
-
 
 <div align="center">
 
@@ -109,14 +97,6 @@
 [![HackerOne](https://img.shields.io/badge/HackerOne-494949?style=for-the-badge\&logo=HackerOne\&logoColor=white)](https://hackerone.com/public_void)
 
 
-
-## 🎧 Spotify
-
-<div align="center">
-  <a href="https://open.spotify.com/user/21q6zoxrzq55odgdg3r7xcesq">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/>
-  </a>
-</div>
 
 ---
 
@@ -170,6 +150,14 @@ Fique à vontade para me chamar para trocar uma ideia, projetos open source, par
 
 
  </pre>
+
+## 🎧 Spotify
+
+<div align="center">
+  <a href="https://open.spotify.com/user/21q6zoxrzq55odgdg3r7xcesq">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/>
+  </a>
+</div>
 
 
 
