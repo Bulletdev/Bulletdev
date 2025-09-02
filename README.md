@@ -2,7 +2,9 @@
 	
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev) 
-<a href="https://www.twitch.tv/fiscaltft/about" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/fiscaltft"> </a> 
+  <a href="https://www.bulletonrails.me">
+    <img src="https://img.shields.io/badge/Blog-red?style=for-the-badge&logo=ruby&logoColor=white"/>
+<a href="https://www.youtube.com/@BulletOnRails">
 
 </div>
 
@@ -14,9 +16,6 @@
 
   <a href="https://www.linkedin.com/in/michael-bullet">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a href="https://www.bulletonrails.me">
-    <img src="https://img.shields.io/badge/Blog-red?style=for-the-badge&logo=ruby&logoColor=white"/>
-<a href="https://www.youtube.com/@BulletOnRails">
   <img src="https://img.shields.io/badge/youtube-323330?style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube Badge" />
 <a href="mailto:contato@michaelbullet.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -143,3 +142,4 @@ Feel free to reach out for a chat, open-source collaborations, partnerships, men
   </a>
 </div>
 </details>
+<a href="https://www.twitch.tv/fiscaltft/about" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/fiscaltft"> </a> 
