@@ -142,4 +142,4 @@ Feel free to reach out for a chat, open-source collaborations, partnerships, men
   </a>
 </div>
 </details>
-<a href="https://www.twitch.tv/fiscaltft/about" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/fiscaltft"> </a> 
+<a href="https://www.twitch.tv/fiscaltft/about" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/clubedojava"> </a> 
