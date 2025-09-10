@@ -12,7 +12,7 @@
 
 <div align="center">
   <h1>Michael Bullet</h1>
-  <p><strong>Fullstack Developer | Java Advocate | DevSecOps | Cybersecurity Enthusiast</strong></p>
+  <p><strong>Fullstack Developer | IAM | ISO 27001 | DevSecOps | Cybersecurity Enthusiast</strong></p>
 
   <a href="https://www.linkedin.com/in/michael-bullet">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
