@@ -1,12 +1,6 @@
-<div>
-	
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev) 
-  <a href="https://www.bulletonrails.me">
-    <img src="https://img.shields.io/badge/Blog-red?style=for-the-badge&logo=ruby&logoColor=white"/>
-<a href="https://www.youtube.com/@BulletOnRails">
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)<a href="https://www.bulletonrails.me"> <img src="https://img.shields.io/badge/Blog-red?style=for-the-badge&logo=ruby&logoColor=white"/><a href="https://www.youtube.com/@BulletOnRails">
 
-</div>
 
 ![GitHub Banner](assets/Banner.jpg)
 
@@ -14,13 +8,8 @@
   <h1>Michael Bullet</h1>
   <p><strong>Fullstack Developer | IAM | ISO 27001 | DevSecOps | Cybersecurity Enthusiast</strong></p>
 
-  <a href="https://www.linkedin.com/in/michael-bullet">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/youtube-323330?style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube Badge" />
-<a href="mailto:contato@michaelbullet.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+  <a href="https://www.linkedin.com/in/michael-bullet"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><img src="https://img.shields.io/badge/youtube-323330?style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube Badge" />
+<a href="mailto:contato@michaelbullet.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
  
 ---
 <div align="center">
@@ -28,8 +17,9 @@
 ## About Me
 </div>
 
-* I'm passionate about Backend, offensive security, and reverse engineering.
-* I create tools and content for both Developers and Pentesters.
+ I'm passionate about Backend, offensive security, and reverse engineering.
+ 
+ I create tools and content for both Developers and Pentesters.
 
 <div align="center">
 
