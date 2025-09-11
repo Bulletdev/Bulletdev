@@ -28,7 +28,7 @@
 ## About Me
 </div>
 
-* I'm passionate about Java, offensive security, and reverse engineering.
+* I'm passionate about Backend, offensive security, and reverse engineering.
 * I create tools and content for both Developers and Pentesters.
 
 <div align="center">
