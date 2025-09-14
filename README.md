@@ -20,6 +20,8 @@
  I'm passionate about Backend, offensive security, and reverse engineering.
  
  I create tools and content for both Developers and Pentesters.
+ 
+ Ex Custom ROM developer ( Resurrection Remix/CorvusOS ) and AOSP modder
 
 <div align="center">
 
