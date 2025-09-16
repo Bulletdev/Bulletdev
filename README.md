@@ -42,6 +42,10 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
   <img height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
   <img height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitkraken/gitkraken-original.svg"/>
+  <img height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/>
+  <img height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg"/>
+
+
 
 </div>
 
