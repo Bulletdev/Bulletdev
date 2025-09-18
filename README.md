@@ -1,7 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)
 
-![GitHub Banner](assets/Banner.jpg)
+![GitHub Banner](assets/Banner.jpg) 
 <div align="center">
   <h1>Michael Bullet</h1>
   <p><strong>Fullstack Developer | IAM | ISO 27001 | DevSecOps | Cybersecurity Enthusiast</strong></p>
