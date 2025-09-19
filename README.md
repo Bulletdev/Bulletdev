@@ -1,7 +1,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)
 
-![GitHub Banner](assets/Banner.jpg) 
+<p align="center">
+  <img src="assets/Banner.jpg" alt="GitHub Banner" width="93%">
+</p>
+
 <div align="center">
   <h1>Michael Bullet</h1>
   <p><strong>Fullstack Developer | IAM | ISO 27001 | DevSecOps | Cybersecurity Enthusiast</strong></p>
@@ -31,6 +34,7 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+</div>
 
   <div align="center">
 
@@ -92,6 +96,8 @@ Feel free to reach out for a chat, open-source collaborations, partnerships, men
 
 📧 [contato@michaelbullet.com](mailto:contato@michaelbullet.com)
 🔗 [michaelbullet.com](https://www.michaelbullet.com)
+</div>
+</div>
 
 ---
 
@@ -99,7 +105,6 @@ Feel free to reach out for a chat, open-source collaborations, partnerships, men
 
 <h1>Signatures:</h1>
  
-<div>
 <pre>
 
                    ⢀⣴⣿⣿⣿⣿⣿⣶⣶⣶⣿⣿⣶⣶⣶⣶⣶⣿⡿⣿⣾⣷⣶⣶⣾⣿⠀                                                                                                                          
@@ -116,10 +121,8 @@ Feel free to reach out for a chat, open-source collaborations, partnerships, men
              ⠀⠀⠀⣿⣉⡷⠀⠀⢧⣀⣼ ⠀⢸⣀  ⢸⣇⡀ ⢸⣏⣁⠀ ⠀⡇⠀ 
 </pre>
 
-</div>
-<br><br>
-
 <pre>
+
          ____          _  _        _     _____   ______ __      __
          |  _ \        | || |      | |   |  __ \ |  ____|\ \    / /
          | |_) | _   _ | || |  ___ | |_  | |  | || |__    \ \  / /
@@ -128,13 +131,19 @@ Feel free to reach out for a chat, open-source collaborations, partnerships, men
          |____/  \__,_||_||_| \___| \__| |_____/ |______|    \/
 </pre>
 
+<div align="center">
 
 ## 🎧 Spotify
 
-<div align="center">
   <a href="https://open.spotify.com/user/21q6zoxrzq55odgdg3r7xcesq">
     <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/>
   </a>
-</div>
 </details>
-<a href="https://www.twitch.tv/fiscaltft/about" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/clubedojava"> </a> 
+</div>
+
+<p align="center">
+  <a href="https://www.twitch.tv/clubedojava/about" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/twitch/status/clubedojava">
+  </a>
+</p>
+
