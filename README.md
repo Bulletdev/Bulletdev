@@ -63,16 +63,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bulletdev/Bulletdev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bulletdev/Bulletdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bulletdev/Bulletdev/output/pacman-contribution-graph.svg">
-</picture>
-
-<div align="center">
-  <a href="https://ayo.so/bullet"></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bulletdev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bulletdev&layout=compact&langs_count=6&theme=jolly&hide=html,css,javascript,typescript,GLSL,PLpgSQL,PLSQL,Roff,TSQL,Dockerfile,Makefile,C+,C#,C++,Batchfile"/>
 
 > “There is something in you I like more than yourself. Therefore I must destroy you.”
 > — Jacques Lacan
@@ -100,12 +90,24 @@ Feel free to reach out for a chat, open-source collaborations, partnerships, men
 
 <details align="left">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bulletdev/Bulletdev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bulletdev/Bulletdev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bulletdev/Bulletdev/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center">
+  <a href="https://ayo.so/bullet"></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bulletdev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bulletdev&layout=compact&langs_count=6&theme=jolly&hide=html,css,javascript,typescript,GLSL,PLpgSQL,PLSQL,Roff,TSQL,Dockerfile,Makefile,C+,C#,C++,Batchfile"/>
+  
 <h1>Signatures:</h1>
- 
+ <div align="left">
+
 <pre>
 
-                   ⢀⣴⣿⣿⣿⣿⣿⣶⣶⣶⣿⣿⣶⣶⣶⣶⣶⣿⡿⣿⣾⣷⣶⣶⣾⣿⠀                                                                                                                          
-                 ⣠⣿⣿⢿⣿⣯⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣿⡇⣿⣿⣿⣿⣿⡇                                                                                                         
+                   ⢀⣴⣿⣿⣿⣿⣿⣶⣶⣶⣿⣿⣶⣶⣶⣶⣶⣿⡿⣿⣾⣷⣶⣶⣾⣿⠀                                                                                       
+                 ⣠⣿⣿⢿⣿⣯⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣿⡇⣿⣿⣿⣿⣿⡇                                                                                       
              ⠀⣰⣿⣿⣷⡟⠤⠟⠁⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⡇⣿⣿⣿⣿⣿⡇ 
              ⠀⣿⣿⣿⣿⣿⣷⣶⣿⣿⡟⠁⣮⡻⣿⣿⣿⣿⣿⣿⣿⣿⢸⡇⣿⣿⣿⣿⣿⡇ 
              ⠘⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⣿⣿⣹⣿⣿⣿⣿⣿⣿⡿⢸⡇⣿⣿⣿⣿⣿⡇ 
@@ -127,6 +129,7 @@ Feel free to reach out for a chat, open-source collaborations, partnerships, men
          | |_) || |_| || || ||  __/| |_  | |__| || |____    \  /
          |____/  \__,_||_||_| \___| \__| |_____/ |______|    \/
 </pre>
+
 
 <div align="center">
 
