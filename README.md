@@ -63,9 +63,12 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 </div>
 
+<div align="center">
 
 > “There is something in you I like more than yourself. Therefore I must destroy you.”
+
 > — Jacques Lacan
+</div> 
 
 ## Find Me On
 
