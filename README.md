@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)
 
 <p align="center">
-  <img src="assets/1.png" alt="GitHub Banner" width="89%">
+  <img src="assets/1.png" alt="GitHub Banner" width="81%">
 </p>
 
 <div align="center">
@@ -17,9 +17,7 @@
 ## About Me
 </div>
 
- I'm passionate about Backend, offensive security, and reverse engineering.
- 
- I create tools and content for both Developers and Pentesters.
+ I'm passionate about Backend, offensive security, and reverse engineering. 
  
  Ex Custom ROM developer ( Resurrection Remix/CorvusOS ) and AOSP modder
 
