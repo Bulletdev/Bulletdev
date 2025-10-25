@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)
 
 <p align="center">
-  <img src="https://ibb.co/HDbrpmDR" alt="GitHub Banner" width="81%">
+  <img src="https://i.ibb.co/DDv7g3Dm/1.png" alt="GitHub Banner" width="81%">
 </p>
 
 <div align="center">
