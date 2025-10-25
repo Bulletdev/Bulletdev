@@ -2,9 +2,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)
 
 <p align="center">
-  <img src="https://i.ibb.co/DDv7g3Dm/1.png" alt="GitHub Banner" width="81%">
+  <img src="https://i.ibb.co/DDv7g3Dm/1.png" alt="git cover" border="1">
 </p>
-
 <div align="center">
   <h1>Michael Bullet</h1>
   <p><strong>Fullstack Developer | IAM | ISO 27001 | DevSecOps | Cybersecurity Enthusiast</strong></p>
