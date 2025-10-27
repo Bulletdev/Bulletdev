@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)
 
 <p align="center">
-  <img src="https://i.ibb.co/DDv7g3Dm/1.png" alt="git cover" border="1">
+  <img src="https://i.ibb.co/5XYtQtCX/cover.webp" alt="git cover" border="0">
 </p>
 <div align="center">
   <h1>Michael Bullet</h1>
