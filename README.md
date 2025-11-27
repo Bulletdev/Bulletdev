@@ -73,7 +73,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@craquebullet)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/craquebullet)
 [![HBH](https://img.shields.io/badge/HellboundHackers-0A0A0A?style=for-the-badge)](https://hbh.sh/user/MitnickBR)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494949?style=for-the-badge&logo=HackerOne&logoColor=white)](https://hackerone.com/public_void)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494949?style=for-the-badge&logo=HackerOne&logoColor=white)](https://hackerone.com/bulletonrails)
 
 ---
 
