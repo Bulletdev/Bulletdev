@@ -5,7 +5,6 @@
   <img src="https://i.ibb.co/vxzZyL9j/Design-sem-nome-2.png" alt="git cover" border="0">
 </p>
 <div align="center">
-  <h1>Michael Bullet</h1>
   <p><strong>Fullstack Developer | IAM | ISO 27001 | DevSecOps | Cybersecurity Enthusiast</strong></p>
 
 <a href="https://www.bulletonrails.me"> <img src="https://img.shields.io/badge/Blog-red?style=for-the-badge&logo=ruby&logoColor=white"/><a href="https://www.youtube.com/@BulletOnRails"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/><a href="https://www.linkedin.com/in/michael-bullet"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
