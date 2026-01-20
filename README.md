@@ -17,7 +17,8 @@
 
  I'm passionate about Backend, offensive security, and reverse engineering. 
  
- Ex Custom ROM developer ( Resurrection Remix/CorvusOS ) and AOSP modder
+ Ex Custom ROM developer ( Resurrection Remix/CorvusOS ) and AOSP modder,
+ also DDTank Lover
 
 <div align="center">
 
