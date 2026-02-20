@@ -1,7 +1,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev)
 
 <p align="center">
   <img src="https://i.ibb.co/vxzZyL9j/Design-sem-nome-2.png" alt="profile banner" border="0">
@@ -26,7 +25,7 @@
 
 ---
 
-##  TechStack
+##  TechStack & Tools
 
 ```
 ╔══════════════════════╦════════════════════════════════════════════════════╗
@@ -36,7 +35,7 @@
 ║  Backend             ║  Ruby on Rails, Spring Boot, Gin                   ║
 ║  Frontend            ║  Vue.js, React, Tailwind CSS, Node                 ║
 ║  Security            ║  OWASP, Burp Suite, Metasploit, ZAP                ║
-║  Reverse Eng.        ║  Ghidra, IDA Pro, x64dbg, Frida                    ║
+║  Reverse Eng.        ║  FFUF, NIKTO,Ghidra, IDA Pro, x64dbg, Frida        ║
 ╚══════════════════════╩════════════════════════════════════════════════════╝
 ```
 
@@ -48,6 +47,12 @@
 </div>
 
 </div>
+
+</details>
+
+---
+
+<details>
 
 
 <div align="center">
@@ -62,14 +67,6 @@
   <img height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" alt="Railway"/>
 </div>
 
-</div>
-
-</details>
-
----
-
-## DevOps & Observability
-
 <div align="center">
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
@@ -81,6 +78,9 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
+
+
+</details>
 
 ---
 
@@ -96,7 +96,7 @@
 
 ---
 
-## 06 · Contact
+## Contact
 
 <div align="center">
 
@@ -121,7 +121,7 @@
 
 ---
 
-## 07 · GitHub Stats
+## GitHub Stats
 
 <details open>
 <summary><kbd>▶ Activity & Statistics (click to collapse)</kbd></summary>
