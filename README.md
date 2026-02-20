@@ -122,7 +122,7 @@
 
 ## GitHub Stats
 
-<details open>
+<details close>
 <summary><kbd>▶ Activity & Statistics (click to collapse)</kbd></summary>
 
 <div align="center">
@@ -170,7 +170,7 @@
 
 <div align="center">
 
-## 🎧 Spotify
+## Spotify
 
   <a href="https://open.spotify.com/user/21q6zoxrzq55odgdg3r7xcesq">
     <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/>
