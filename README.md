@@ -1,6 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <p align="center">
   <img src="https://i.ibb.co/vxzZyL9j/Design-sem-nome-2.png" alt="profile banner" border="0">
@@ -50,9 +49,9 @@
 
 </details>
 
----
-
-<details>
+<div align="center">
+  
+## Tools
 
 
 <div align="center">
@@ -136,9 +135,6 @@
 
 <br/>
 
-</div>
-
-</details>
 
 <h1>Signatures:</h1>
  <div align="left">
@@ -169,6 +165,8 @@
          |____/  \__,_||_||_| \___| \__| |_____/ |______|    \/
 </pre>
 
+</div>
+</details>
 
 <div align="center">
 
