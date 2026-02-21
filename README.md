@@ -124,7 +124,7 @@
 ▓▒░ · © 2026 MICHAEL "BULLET" DOUGLAS · ░▒▓
 ```
 
-**[⬆ Back to top](#TechStack)**
+**[⬆ Back to top](#TechStack-&-Tools)**
 
 </p>
 
