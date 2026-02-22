@@ -71,6 +71,7 @@ And promoting open-source technologies.
 </details>
 
 ---
+## Contact
 
 <div align="center">
 
@@ -82,8 +83,6 @@ And promoting open-source technologies.
 
 
 ---
-
-## Contact
 
 <div align="center">
 
