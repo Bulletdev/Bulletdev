@@ -15,7 +15,6 @@ My goal is to build resilient and “Secure-by-Design” architectures, advocati
 And promoting open-source technologies.
 
 </p>
-</div>
 
 ---
 
@@ -38,6 +37,7 @@ And promoting open-source technologies.
 ║  Versatility         ║  Node.js, Golang, React                            ║
 ╚══════════════════════╩════════════════════════════════════════════════════╝
 ```
+</div>
 
 <div align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
@@ -92,7 +92,6 @@ And promoting open-source technologies.
 [![HBH](https://img.shields.io/badge/HellboundHackers-0A0A0A?style=for-the-badge)](https://hbh.sh/user/MitnickBR)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494949?style=for-the-badge&logo=HackerOne&logoColor=white)](https://hackerone.com/bulletonrails)
 
-</div>
 
 ---
 
@@ -112,6 +111,7 @@ And promoting open-source technologies.
 ║    · Or just to talk about chess and DDTank                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+</div>
 
  **Email:** [contato@michaelbullet.com](mailto:contato@michaelbullet.com)
  **Website:** [michaelbullet.com](https://www.michaelbullet.com)
@@ -125,7 +125,7 @@ And promoting open-source technologies.
 ▓▒░ · © 2026 MICHAEL "BULLET" DOUGLAS · ░▒▓
 ```
 
-**[⬆ Back to top](#TechStack-&-Tools)**
+**[⬆ Back to top](#techstack--tools)**
 
 </p>
 
