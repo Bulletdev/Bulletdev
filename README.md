@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://i.ibb.co/vxzZyL9j/Design-sem-nome-2.png" alt="profile banner" border="0">
-</p>
 
 ```
 >            ██████╗ ██╗   ██╗██╗     ██╗     ███████╗████████╗██████╗ ███████╗██╗   ██╗
@@ -14,6 +13,20 @@
 >            ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚══════╝   ╚═╝   ╚═════╝ ╚══════╝  ╚═══╝
                    Fullstack Developer | IAM | ISO 27001 | DevSecOps | Cybersecurity
 ```
+
+<div align="center">
+
+### Software Engineer focused on Security and Identity. 
+
+I work at the intersection of high-performance development (Java/Spring/Ruby) and Offensive Cybersecurity. 
+
+My goal is to build resilient and “Secure-by-Design” architectures, advocating for best practices in the community. 
+
+And promoting open-source technologies.
+
+</p>
+</div>
+
 ---
 
 <div align="center">
@@ -28,13 +41,11 @@
 
 ```
 ╔══════════════════════╦════════════════════════════════════════════════════╗
-║  CATEGORY            ║  TECHNOLOGIES                                      ║
+║  CATEGORY            ║  TECHNOLOGIES & FOCUS                              ║
 ╠══════════════════════╬════════════════════════════════════════════════════╣
-║  Languages           ║  Java, Ruby, Go                                    ║
-║  Backend             ║  Ruby on Rails, Spring Boot, Gin                   ║
-║  Frontend            ║  Vue.js, React, Tailwind CSS, Node                 ║
-║  Security            ║  OWASP, Burp Suite, Metasploit, ZAP                ║
-║  Reverse Eng.        ║  FFUF, NIKTO,Ghidra, IDA Pro, x64dbg, Frida        ║
+║  Core Focus          ║  Java, Ruby on Rails, Vue.js, AWS, IAM             ║
+║  Security & AppSec   ║  OWASP, Nikto, FFUF, Metasploit, Reverse Eng.      ║
+║  Versatility         ║  Node.js, Golang, React                            ║
 ╚══════════════════════╩════════════════════════════════════════════════════╝
 ```
 
