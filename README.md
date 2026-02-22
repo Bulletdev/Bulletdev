@@ -104,14 +104,13 @@ And promoting open-source technologies.
 ║    · Or just to talk about chess and DDTank                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
-</details>
 
-</div>
 
  **Email:** [contato@michaelbullet.com](mailto:contato@michaelbullet.com)
  **Website:** [michaelbullet.com](https://www.michaelbullet.com)
  **Blog:** [bulletonrails.me](https://www.bulletonrails.me)
 
+</details>
 </div>
 
 ---
