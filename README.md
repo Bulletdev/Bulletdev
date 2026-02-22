@@ -86,9 +86,12 @@ And promoting open-source technologies.
 
 <div align="center">
 
+<details>
+<summary><kbd>▶  GET IN TOUCH  (click to expand)</kbd></summary>
+  
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  GET IN TOUCH                                                                ║
+║                                                                              ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║  Feel free to reach out for:                                                 ║
 ║    · Open-source collaborations                                              ║
@@ -98,6 +101,8 @@ And promoting open-source technologies.
 ║    · Or just to talk about chess and DDTank                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+</details>
+
 </div>
 
  **Email:** [contato@michaelbullet.com](mailto:contato@michaelbullet.com)
