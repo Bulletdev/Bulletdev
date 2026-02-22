@@ -6,6 +6,7 @@
 
 <div align="center">
 
+
 ### Software Engineer focused on Security and Identity. 
 
 I work at the intersection of high-performance development (Java/Spring/Ruby) and Offensive Cybersecurity. 
@@ -26,19 +27,9 @@ And promoting open-source technologies.
 
 ---
 
-##  TechStack & Tools
-
-```
-╔══════════════════════╦════════════════════════════════════════════════════╗
-║  CATEGORY            ║  TECHNOLOGIES & FOCUS                              ║
-╠══════════════════════╬════════════════════════════════════════════════════╣
-║  Core Focus          ║  Java, Ruby on Rails, Vue.js, AWS, IAM             ║
-║  Security & AppSec   ║  OWASP, Nikto, FFUF, Metasploit, Reverse Eng.      ║
-║  Versatility         ║  Node.js, Golang, React                            ║
-╚══════════════════════╩════════════════════════════════════════════════════╝
-```
 </div>
 
+##  TechStack & Tools
 <div align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails"/>
@@ -52,9 +43,6 @@ And promoting open-source technologies.
 
 <div align="center">
   
-## Tools
-
-
 <div align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" alt="DBeaver"/>
