@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)
 
 <p align="center">
@@ -9,13 +9,11 @@
 <div align="center">
 
 
-### Software Engineer focused on Security and Identity. 
+### I am a Software Engineer focused on Security and Identity. 
 
 I work at the intersection of high-performance development (Java/Spring/Ruby) and Offensive Cybersecurity. 
 
-My goal is to build resilient and “Secure-by-Design” architectures, advocating for best practices in the community. 
-
-And promoting open-source technologies.
+My goal is to build resilient and “Secure-by-Design” architectures, while advocating for best practices in the community and promoting open-source technologies.
 
 </p>
 
@@ -36,7 +34,7 @@ And promoting open-source technologies.
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go"/>
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js"/>
 </div>
 
 </div>
@@ -48,13 +46,13 @@ And promoting open-source technologies.
 <div align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" alt="DBeaver"/>
-  <img height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ"/>
-  <img height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"/>
-  <img height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP"/>
-  <img height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitkraken/gitkraken-original.svg" alt="GitKraken"/>
-  <img height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku"/>
-  <img height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" alt="Railway"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitkraken/gitkraken-original.svg" alt="GitKraken"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" alt="Railway"/>
 </div>
 
 <div align="center">
@@ -100,7 +98,7 @@ And promoting open-source technologies.
 ║    · Technical partnerships                                                  ║
 ║    · Mentoring opportunities                                                 ║
 ║    · Security research discussions                                           ║
-║    · Or just to talk about chess and DDTank                                  ║
+║    · or just to talk about chess and DDTank                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
