@@ -103,8 +103,8 @@ My goal is to build resilient and “Secure-by-Design” architectures, while ad
 ```
 
 
- **Email:** [contato@michaelbullet.com](mailto:contato@michaelbullet.com)
- **Website:** [michaelbullet.com](https://www.michaelbullet.com)
+ **Email:** [michael@prostaff.gg](mailto:michael@prostaff.gg)
+ **Website:** [michaelbullet.dev](https://www.michaelbullet.dev)
  **Blog:** [bulletonrails.me](https://www.bulletonrails.me)
 
 </details>
