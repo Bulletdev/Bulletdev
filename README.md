@@ -71,23 +71,14 @@ My goal is to build resilient and “Secure-by-Design” architectures, while ad
 </details>
 
 ---
-## Contact
-
-<div align="center">
-
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/bulletdev)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@craquebullet)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/craquebullet)
-[![HBH](https://img.shields.io/badge/HellboundHackers-0A0A0A?style=for-the-badge)](https://hbh.sh/user/MitnickBR)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494949?style=for-the-badge&logo=HackerOne&logoColor=white)](https://hackerone.com/bulletonrails)
-
-
----
 
 <div align="center">
 
 <details>
 <summary><kbd>▶  GET IN TOUCH  (click to expand)</kbd></summary>
+  
+
+
   
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -106,6 +97,17 @@ My goal is to build resilient and “Secure-by-Design” architectures, while ad
  **Email:** [michael@prostaff.gg](mailto:michael@prostaff.gg)
  **Website:** [michaelbullet.dev](https://www.michaelbullet.dev)
  **Blog:** [bulletonrails.me](https://www.bulletonrails.me)
+
+---
+## Contact
+
+<div align="center">
+
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/bulletdev)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@craquebullet)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/craquebullet)
+[![HBH](https://img.shields.io/badge/HellboundHackers-0A0A0A?style=for-the-badge)](https://hbh.sh/user/MitnickBR)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494949?style=for-the-badge&logo=HackerOne&logoColor=white)](https://hackerone.com/bulletonrails)
 
 </details>
 </div>
