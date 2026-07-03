@@ -11,7 +11,7 @@
 
 ### I am a Software Engineer focused on Security and Identity. 
 
-I work at the intersection of high-performance development (Java/Spring/Ruby) and Offensive Cybersecurity. 
+I work at the intersection of high-performance development (Kotlin/Elixir/Ruby) and Offensive Cybersecurity. 
 
 My goal is to build resilient and “Secure-by-Design” architectures, while advocating for best practices in the community and promoting open-source technologies.
 
