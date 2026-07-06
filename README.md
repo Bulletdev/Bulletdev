@@ -51,7 +51,7 @@ My goal is to build resilient and “Secure-by-Design” architectures, while ad
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" title="Redis"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" alt="Google Cloud"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" title="Google Cloud"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitkraken/gitkraken-original.svg" alt="GitKraken" title="GitKraken"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" title="Heroku"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" alt="Railway" title="Railway"/>
