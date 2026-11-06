@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev)
 
 <p align="center">
-  <img src="https://i.ibb.co/vxzZyL9j/Design-sem-nome-2.png" alt="profile banner" border="0">
+  <img src="https://github.com/Bulletdev/Bulletdev/blob/14e6dd30710746cc8e68d6eb88060f1654b0b217/assets/GrapheneOS.jpg" alt="profile banner" border="0">
 
 <div align="center">
 
